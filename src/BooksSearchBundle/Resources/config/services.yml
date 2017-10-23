@@ -1,0 +1,4 @@
+services:
+#    books_search.example:
+#        class: BooksSearchBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
