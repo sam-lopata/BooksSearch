@@ -1,3 +1,30 @@
 books_search_homepage:
     path:     /
-    defaults: { _controller: BooksSearchBundle:Default:index }
+    defaults: 
+        _controller: FrameworkBundle:Redirect:urlRedirect 
+        path: /books
+        permanent: true
+    
+books_search_books_list:
+    path:     /books/{page}.{_format}
+    defaults: 
+        _controller: BooksSearchBundle:Default:books 
+        page: 1
+        _format: html
+    requirements:
+        page: '\d+'
+        _format: html|json|xml
+
+books_search_book:
+    path:     /book/{id}.{_format}
+    defaults: 
+        _controller: BooksSearchBundle:Default:book
+        _format: html
+    
+#books_search_books_search:
+#    path:     /books/search/{page}
+#    defaults: 
+#        _controller: BooksSearchBundle:Default:books 
+#        page: 1
+#    requirements:
+#        page: '\d+'
