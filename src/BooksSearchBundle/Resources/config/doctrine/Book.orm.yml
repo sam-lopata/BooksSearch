@@ -21,9 +21,9 @@ BooksSearchBundle\Entity\Book:
         pageCount:
             type: integer
             column: page_count
-        categories:
-            type: smallint
-        language:
-            type: string
-            length: '3'
+#        categories:
+#            type: smallint
+#        language:
+#            type: string
+#            length: '3'
     lifecycleCallbacks: {  }
