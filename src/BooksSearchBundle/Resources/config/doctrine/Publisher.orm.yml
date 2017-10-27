@@ -1,0 +1,16 @@
+BooksSearchBundle\Entity\Publisher:
+    type: entity
+    table: null
+    repositoryClass: BooksSearchBundle\Repository\PublisherRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+            unique: true
+    lifecycleCallbacks: {  }

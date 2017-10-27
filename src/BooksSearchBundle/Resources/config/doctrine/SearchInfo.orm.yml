@@ -1,0 +1,18 @@
+BooksSearchBundle\Entity\SearchInfo:
+    type: entity
+    table: null
+    repositoryClass: BooksSearchBundle\Repository\SearchInfoRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        textSnippet:
+            type: text
+    oneToOne:
+        book:
+            targetEntity: Book
+            mappedBy: SearchInfo
+    lifecycleCallbacks: {  }

@@ -18,6 +18,7 @@ class AppKernel extends Kernel
             new BooksSearchBundle\BooksSearchBundle(),
             new Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new Sensio\Bundle\BuzzBundle\SensioBuzzBundle(),
+            new Doctrine\Bundle\MigrationsBundle\DoctrineMigrationsBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

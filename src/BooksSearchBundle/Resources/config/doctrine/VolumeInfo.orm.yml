@@ -1,0 +1,73 @@
+BooksSearchBundle\Entity\VolumeInfo:
+    type: entity
+    table: null
+    repositoryClass: BooksSearchBundle\Repository\VolumeInfoRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        title:
+            type: string
+            length: 255
+        publishedDate:
+            type: string
+            length: 255
+        description:
+            type: text
+        pageCount:
+            type: integer
+        language:
+            type: string
+            length: 255
+        previewLink:
+            type: string
+            length: 255
+        infoLink:
+            type: string
+            length: 255
+    oneToOne:
+        book:
+            targetEntity: Book
+            mappedBy: volumeInfo
+        imageLinks:
+            targetEntity: ImageLink
+            inversedBy: volume
+            cascade: ["all", "merge", "persist", "refresh", "remove"]
+            joinColumn:
+                name: image_id
+                referencedColumnName: id          
+    manyToOne:
+        publisher:
+            targetEntity: Publisher
+            cascade: ["all", "merge", "persist", "refresh", "remove"]
+            joinColumn:
+                name: publisher_id
+                referencedColumnName: id
+    manyToMany:
+        authors:
+            targetEntity: Author
+            cascade: ["all", "merge", "persist", "refresh", "remove"]
+            joinTable:
+                name: volumes_authors
+                joinColumns:
+                    author_id:
+                        referencedColumnName: id
+                inverseJoinColumns:
+                    volume_id:
+                        referencedColumnName: id
+        categories:
+            targetEntity: Category
+            cascade: ["all", "merge", "persist", "refresh", "remove"]
+            joinTable:
+                name: volumes_categories
+                joinColumns:
+                    category_id:
+                        referencedColumnName: id
+                inverseJoinColumns:
+                    volume_id:
+                        referencedColumnName: id
+            
+    lifecycleCallbacks: {  }

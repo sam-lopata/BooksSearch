@@ -9,21 +9,35 @@ BooksSearchBundle\Entity\Book:
             generator:
                 strategy: AUTO
     fields:
-        title:
+        gid: 
+            type: string
+            length: '32'
+            unique: true
+        etag: 
+            type: string
+            length: '32'
+            unique: true
+        selfLink: 
             type: string
             length: '255'
-        publishedDate:
-            type: datetime
-            column: published_date
-        description:
-            type: text
-            nullable: true
-        pageCount:
-            type: integer
-            column: page_count
-#        categories:
-#            type: smallint
-#        language:
-#            type: string
-#            length: '3'
+            column: self_link
+            unique: true
+    oneToOne:
+        volumeInfo:
+            targetEntity: VolumeInfo
+            inversedBy: book
+            cascade: ["all", "merge", "persist", "refresh", "remove"]
+            joinColumn:
+              name: volume_id
+              referencedColumnName: id
+              onDelete: CASCADE
+        searchInfo:
+            targetEntity: SearchInfo
+            inversedBy: book
+            cascade: ["all", "merge", "persist", "refresh", "remove"]
+            joinColumn:
+              name: search_id
+              referencedColumnName: id
+              onDelete: CASCADE
+              cascade: ["persist"]
     lifecycleCallbacks: {  }

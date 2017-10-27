@@ -1,0 +1,24 @@
+BooksSearchBundle\Entity\ImageLink:
+    type: entity
+    table: null
+    repositoryClass: BooksSearchBundle\Repository\ImageLinkRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        smallThumbnail:
+            type: string
+            length: 255
+            unique: true
+        thumbnail:
+            type: string
+            length: 255
+            unique: true
+    oneToOne:
+        volume:
+            targetEntity: VolumeInfo
+            mappedBy: imageLinks            
+    lifecycleCallbacks: {  }
