@@ -1,13 +1,53 @@
 {# app/Resources/views/Default/index.html.twig #}
 <head>
-    {% stylesheets '@bootstrap_css' %}
-        <link rel="stylesheet" type="text/css" media="screen" href="{{ asset_url }}"/>
-    {% endstylesheets %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    {% block stylesheets %}
+        <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet" media="screen">
+        <link href="{{ asset('css/books.css') }}" rel="stylesheet" media="screen">
+    {% endblock %}
 </head>
 <body>
-    {% javascripts '@jquery' '@bootstrap_js' %}
-        <script type="text/javascript" src="{{ asset_url }}"></script>
-    {% endjavascripts %}
 
-    Books search {{ number }}!
+    {% block content %}
+    <main role="main">
+        <section class="jumbotron text-center">
+            <div class="container">
+              <h1 class="jumbotron-heading">Books search test work!</h1>
+              <p class="lead text-muted"></p>
+              <p>
+                <a href="#" class="btn btn-primary">Random</a>
+                <a href="#" class="btn btn-secondary">Search</a>
+              </p>
+            </div>
+        </section>
+
+        <div class="books text-muted">
+            <div class="container">
+                {% for row in range(0, cnt-1)|batch(3) %}
+                    <div class="row">
+                        {% for col in row %}
+                        <div class="card">
+                            <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
+                            <p class="card-text">{{ books[col].volumeInfo.title }}</p>
+                        </div>
+                    {% endfor %}
+                    </div>
+                {% endfor %}
+                
+            </div>
+        </div>
+
+    </main>
+    {% endblock %}
+    {% block javascripts %}
+        <script src="{{ asset('js/jquery.js') }}"></script>
+        <script src="{{ asset('js/bootstrap.js') }}"></script>
+        <script src="{{ asset('js/holder.js') }}"></script>
+        <script src="{{ asset('js/popper.js') }}"></script>
+    {% endblock %}
+    
 </body>

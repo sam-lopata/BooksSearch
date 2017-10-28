@@ -6,16 +6,17 @@ books_search_homepage:
         permanent: true
     
 books_search_books_list:
-    path:     /books/{page}.{_format}
+    path:     /books/{page}.{_format}/{key}
     defaults: 
         _controller: BooksSearchBundle:Default:books 
         page: 1
         _format: html
+        key: null
     requirements:
         page: '\d+'
         _format: html|json|xml
 
-books_search_book:
+books_search_book_detail:
     path:     /book/{id}.{_format}
     defaults: 
         _controller: BooksSearchBundle:Default:book

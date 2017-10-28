@@ -17,15 +17,15 @@ class DefaultController extends Controller
 //        ));
 //    }
     
-    public function booksAction($page)
+    public function booksAction($page, $key)
     {
+        $br = $this->getDoctrine()->getRepository('BooksSearchBundle:Book');
+        $books = $br->findBy(array(), array('id' => 'DESC'), 30);
         
 
-        
-        $number = mt_rand(0, 100);
-        
         return $this->render('BooksSearchBundle:Default:index.html.twig', array(
-            'number' => $number,
+            'books' => $books,
+            'cnt' => count($books)
         ));
     }
 }

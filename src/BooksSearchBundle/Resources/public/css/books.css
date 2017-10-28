@@ -1,0 +1,76 @@
+
+
+body {
+  min-height: 75rem; /* Can be removed; just added for demo purposes */
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 80rem;
+}
+
+.books {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.card {
+  float: left;
+  width: 33.333%;
+  padding: .75rem;
+  margin-bottom: 2rem;
+  border: 0;
+  
+/*  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;*/
+}
+
+
+
+.card > img {
+  height: 180px;
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 85%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+
