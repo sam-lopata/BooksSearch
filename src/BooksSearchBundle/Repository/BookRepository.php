@@ -2,6 +2,8 @@
 
 namespace BooksSearchBundle\Repository;
 
+use Doctrine\ORM\Tools\Pagination\Paginator;
+
 /**
  * BookRepository
  *
@@ -10,6 +12,74 @@ namespace BooksSearchBundle\Repository;
  */
 class BookRepository extends \Doctrine\ORM\EntityRepository
 {
+    public function findDefault()
+    {
+        $query = $this->createQueryBuilder('b')
+            ->orderBy('b.id', 'ASC')
+            ->getQuery();
+
+        return $query;
+    }
     
+    public function findByTitleAndAuthor($author, $title)
+    {
+        $query = $this->createQueryBuilder('b')
+            ->where('a.name like :author')
+            ->andWhere('vi.title like :title')
+            ->addSelect('vi')
+            ->addSelect('a')
+            ->leftJoin('b.volumeInfo', 'vi')
+            ->leftJoin('vi.authors', 'a')
+            ->setParameter('author', '%' . $author . '%')
+            ->setParameter('title', '%' . $title . '%')
+            ->orderBy('a.name', 'ASC')
+            ->getQuery();
+
+        return $query;
+    }
     
+    public function findByTitleOrAuthor($sterm)
+    {
+        $query = $this->createQueryBuilder('b')
+            ->where('a.name like :author')
+            ->orWhere('vi.title like :title')
+            ->addSelect('vi')
+            ->addSelect('a')
+            ->leftJoin('b.volumeInfo', 'vi')
+            ->leftJoin('vi.authors', 'a')
+            ->setParameter('author', '%' . $sterm . '%')
+            ->setParameter('title', '%' . $sterm . '%')
+            ->orderBy('a.name', 'ASC')
+            ->getQuery();
+
+        return $query;
+    }
+    
+    public function findByTitle($title)
+    {
+        $query = $this->createQueryBuilder('b')
+            ->where('vi.title like :title')
+            ->addSelect('vi')
+            ->leftJoin('b.volumeInfo', 'vi')
+            ->setParameter('title', '%' . $title . '%')
+            ->orderBy('vi.title', 'ASC')
+            ->getQuery();
+
+        return $query;
+    }
+    
+    public function findByAuthor($author)
+    {
+        $query = $this->createQueryBuilder('b')
+            ->where('a.name like :author')
+            ->addSelect('vi')
+            ->addSelect('a')
+            ->leftJoin('b.volumeInfo', 'vi')
+            ->leftJoin('vi.authors', 'a')
+            ->setParameter('author', '%' . $author . '%')
+            ->orderBy('a.name', 'ASC')
+            ->getQuery();
+
+        return $query;
+    }
 }

@@ -28,7 +28,7 @@ body {
 }
 
 .books {
-  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  min-height: 50rem; 
   padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #f7f7f7;
@@ -40,6 +40,7 @@ body {
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
+  text-align: center;
   
 /*  word-wrap: break-word;
   background-color: #fff;
@@ -56,15 +57,21 @@ body {
 }
 
 .book-title {
-  font-size: 85%;
-  /*white-space: nowrap;*/
+  font-size: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
-  /*max-width: 250px;*/
+  color: #000;
 
 }
 
+.book-author {
+  font-size: 85%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .book-desc {
+  font-size: 90%;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -82,5 +89,4 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
-
 

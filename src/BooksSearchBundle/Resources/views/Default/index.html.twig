@@ -16,36 +16,50 @@
     <main role="main">
         <section class="jumbotron text-center">
             <div class="container">
-              <h1 class="jumbotron-heading">Books search test work!</h1>
-              <p class="lead text-muted"></p>
-              <p>
-                <a href="#" class="btn btn-primary">Random</a>
-                <a href="#" class="btn btn-secondary">Search</a>
+              <p class="lead text-muted">
+                {{ form_start(form) }}
+                {{ form_widget(form) }}
+                <button type="submit" class="btn btn-default">Search</button>
+                {{ form_end(form) }}
+                  
               </p>
             </div>
         </section>
 
         <div class="books text-muted">
             <div class="container">
-                {% for row in range(0, cnt-1)|batch(3) %}
-                    <div class="row">
-                        {% for col in row %}
-                        <div class="book">
-                            <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
-                            <p class="book-title">{{ books[col].volumeInfo.title }}</p>
-                            {% if books[col]['searchInfo'] is defined %}
-                                <p class="book-desc">{{ books[col].searchInfo.textSnippet }}</p>
-                            {% else %}
-                                <p class="book-desc">{{ books[col].volumeInfo.description }}</p>
-                            {% endif %}
+                {% if cnt %}
+                    {% for row in range(0, cnt-1)|batch(3) %}
+                        <div class="row">
+                            {% for col in row %}
+                            <div class="book" id="books[col][id]">
+                                <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
+                                <p class="book-title">{{ books[col].volumeInfo.title }}</p>
+                                <p class="book-author">
+                                    {% for author in books[col].volumeInfo.authors %}
+                                        {{ author.name }}
+                                        {% if not loop.last %},{% endif %}
+                                    {% endfor %}
+                                </p>
+                                {% if books[col]['searchInfo'] is defined %}
+                                    <p class="book-desc">{{ books[col].searchInfo.textSnippet }}</p>
+                                {% else %}
+                                    <p class="book-desc">{{ books[col].volumeInfo.description }}</p>
+                                {% endif %}
+                            </div>
+                        {% endfor %}
                         </div>
                     {% endfor %}
-                    </div>
-                {% endfor %}
-                
+                {% else %}
+                    <h3>Nothing found.</h3>     
+                {% endif %}
             </div>
         </div>
-
+        
+        {# display navigation #}
+        <div class="navigation text-center">
+            {{ knp_pagination_render(books) }}
+        </div>
     </main>
     {% endblock %}
     {% block javascripts %}
