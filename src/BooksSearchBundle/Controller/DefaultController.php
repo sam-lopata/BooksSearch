@@ -31,9 +31,6 @@ class DefaultController extends Controller
         $form->handleRequest($request);
 
         if ($form->isSubmitted() && $form->isValid()) {
-//            $data = $form->getData();
-//            $key = $data['key'];
-//            $where = $data['where'];
             $key = $form->get('key')->getData();
             $where = $form->get('where')->getData();
             switch ($where) {                
@@ -60,7 +57,7 @@ class DefaultController extends Controller
         return $this->redirectToRoute('homepage');
     }
     
-    private function returnView($query, $page, $form, $key = "")
+    private function returnView($query, $page, $form, $key = null)
     {
         $paginator  = $this->get('knp_paginator');
         
@@ -70,7 +67,9 @@ class DefaultController extends Controller
             self::NUM_ITEMS,
             array('wrap-queries'=>true)
         );
-        $books->setParam('key', $key);
+        if ($key) {
+            $books->setParam('key', $key);
+        }            
 
         return $this->render('BooksSearchBundle:Default:index.html.twig', array(
             'books' => $books,

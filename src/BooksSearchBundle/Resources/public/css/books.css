@@ -31,7 +31,7 @@ body {
   min-height: 50rem; 
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #f7f7f7;
+  /*background-color: #f7f7f7;*/
 }
 
 .book {
@@ -90,3 +90,32 @@ footer p {
   margin-bottom: .25rem;
 }
 
+.navbar .navbar-nav {
+    float:none;
+    display:inline-block;
+    vertical-align: top;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+
+@media (max-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+.form-group .radio {
+    margin-left: 20px;
+}
+
+.navbar-search-submit {
+    margin-left: 20px;
+}

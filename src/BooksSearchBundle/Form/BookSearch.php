@@ -22,11 +22,11 @@ class BookSearch extends AbstractType
         $builder
             ->setMethod('GET')
             ->add('key', SearchType::class, array(
-                'label' => 'Search book by author or title'))
+                'label' => 'Search'))
             ->add('where', ChoiceType::class, array(
                 'label' => 'Where to search',
                 'choices'  => array(
-                    'Eeverywhere' => self::SEARCH_EVERYWHERE,
+                    'Everywhere' => self::SEARCH_EVERYWHERE,
                     'By title' => self::SEARCH_TITLE,
                     'By author' => self::SEARCH_AUTHOR,
                 ),
