@@ -30,9 +30,14 @@
                 {% for row in range(0, cnt-1)|batch(3) %}
                     <div class="row">
                         {% for col in row %}
-                        <div class="card">
+                        <div class="book">
                             <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
-                            <p class="card-text">{{ books[col].volumeInfo.title }}</p>
+                            <p class="book-title">{{ books[col].volumeInfo.title }}</p>
+                            {% if books[col]['searchInfo'] is defined %}
+                                <p class="book-desc">{{ books[col].searchInfo.textSnippet }}</p>
+                            {% else %}
+                                <p class="book-desc">{{ books[col].volumeInfo.description }}</p>
+                            {% endif %}
                         </div>
                     {% endfor %}
                     </div>

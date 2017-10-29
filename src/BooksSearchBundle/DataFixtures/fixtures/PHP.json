@@ -1,0 +1,914 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 9296,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "noi76uKOJ5wC",
+   "etag": "H6EbQoGJm6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/noi76uKOJ5wC",
+   "volumeInfo": {
+    "title": "PHP Reference: Beginner to Intermediate PHP5",
+    "authors": [
+     "Mario Lurig"
+    ],
+    "publisher": "Mario Lurig",
+    "publishedDate": "2008-04",
+    "description": "A collection of over 250 PHP functions with clear explanations in language anyone can understand, followed with as many examples as it takes to understand what the function does and how it works. This book includes numerous additional tips, the basics of PHP, MySQL query examples, regular expressions syntax, and two indexes to help you find information faster: a common language index and a function index. When the internet is not around or you want a simpler explanation along with all the technical details, this book has all of that and more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435715905"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143571590X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=noi76uKOJ5wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=noi76uKOJ5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=noi76uKOJ5wC&printsec=frontcover&dq=PHP&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=noi76uKOJ5wC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-noi76uKOJ5wC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=noi76uKOJ5wC&rdid=book-noi76uKOJ5wC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=noi76uKOJ5wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book includes numerous additional tips, the basics of PHP, MySQL query examples, regular expressions syntax, and two indexes to help you find information faster: a common language index and a function index."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uHqrBQAAQBAJ",
+   "etag": "3kdExgSkUTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uHqrBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Learning PHP, MySQL & JavaScript",
+    "subtitle": "With JQuery, CSS & HTML5",
+    "authors": [
+     "Robin Nixon"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2014-12-02",
+    "description": "Build interactive, data-driven websites with the potent combination of open-source technologies and web standards, even if you have only basic HTML knowledge. With this popular hands-on guide, you’ll tackle dynamic web programming with the help of today’s core technologies: PHP, MySQL, JavaScript, jQuery, CSS, and HTML5. Explore each technology separately, learn how to use them together, and pick up valuable web programming practices along the way. At the end of the book, you’ll put everything together to build a fully functional social networking site, using XAMPP or any development stack you choose. Learn PHP in-depth, along with the basics of object-oriented programming Explore MySQL, from database structure to complex queries Use the MySQLi Extension, PHP’s improved MySQL interface Create dynamic PHP web pages that tailor themselves to the user Manage cookies and sessions, and maintain a high level of security Master the JavaScript language—and enhance it with jQuery Use Ajax calls for background browser/server communication Acquire CSS2 and CSS3 skills for professionally styling your web pages Implement all of the new HTML5 features, including geolocation, audio, video, and the canvas",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781491918647"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1491918640"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 812,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uHqrBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uHqrBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uHqrBQAAQBAJ&printsec=frontcover&dq=PHP&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=uHqrBQAAQBAJ&dq=PHP&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Learning_PHP_MySQL_JavaScript.html?hl=&id=uHqrBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uHqrBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A guide to PHP essentials and the basics of object-oriented programming."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1cmF0twN4rIC",
+   "etag": "phKXfjzDA38",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1cmF0twN4rIC",
+   "volumeInfo": {
+    "title": "PHP, MySQL, JavaScript & HTML5 All-in-One For Dummies",
+    "authors": [
+     "Steve Suehring",
+     "Janet Valade"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2013-03-15",
+    "description": "Get the basics on four key web programming tools in one great book! PHP, JavaScript, and HTML5 are essential programming languages for creating dynamic websites that work with the MySQL database. PHP and MySQL provide a robust, easy-to-learn, open-source solution for creating superb e-commerce sites and content management. JavaScript and HTML5 add support for the most current multimedia effects. This one-stop guide gives you what you need to know about all four! Seven self-contained minibooks cover web technologies, HTML5 and CSS3, PHP programming, MySQL databases, JavaScript, PHP with templates, and web applications. Addresses how PHP, MySQL, JavaScript, and HTML5 are vital tools for creating dynamic, database-driven websites and are especially important for e-commerce sites Serves as essential reading for web designers who are new to these technologies, offering a crash course covering all of these powerful technologies in this handy volume of seven self-contained minibooks Covers how to program in PHP and how to create and administer a MySQL database as well as how to manipulate MySQL data via a web interface Shows how to create a secure website and how to code popular e-business applications such as login programs and shopping carts With seven books in one, PHP, MySQL, JavaScript & HTML5 All-in-One For Dummies will turn your website into the center of attention in no time at all.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118231340"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118231341"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 720,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1cmF0twN4rIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1cmF0twN4rIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1cmF0twN4rIC&printsec=frontcover&dq=PHP&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1cmF0twN4rIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1cmF0twN4rIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 23.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1cmF0twN4rIC&rdid=book-1cmF0twN4rIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PHP_MySQL_JavaScript_HTML5_All_in_One_Fo-sample-epub.acsm?id=1cmF0twN4rIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PHP_MySQL_JavaScript_HTML5_All_in_One_Fo-sample-pdf.acsm?id=1cmF0twN4rIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1cmF0twN4rIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Addresses how PHP, MySQL, JavaScript, and HTML5 are vital tools for creating dynamic, database-driven websites and are especially important for e-commerce sites Serves as essential reading for web designers who are new to these technologies ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2S_Y6Zm02BQC",
+   "etag": "DWSaLQvswV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2S_Y6Zm02BQC",
+   "volumeInfo": {
+    "title": "Programming PHP",
+    "subtitle": "Creating Dynamic Web Pages",
+    "authors": [
+     "Kevin Tatroe",
+     "Peter MacIntyre",
+     "Rasmus Lerdorf"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2013-02-07",
+    "description": "This updated edition teaches everything you need to know to create effective web applications with the latest features in PHP 5.x. You’ll start with the big picture and then dive into language syntax, programming techniques, and other details, using examples that illustrate both correct usage and common idioms. If you have a working knowledge of HTML, the authors’ many style tips and practical programming advice will help you become a top-notch PHP programmer. Get an overview of what’s possible with PHP programs Learn language fundamentals, including data types, variables, operators, and flow control statements Understand functions, strings, arrays, and objects Apply common web application techniques, such as form processing, data validation, session tracking, and cookies Interact with relational databases like MySQL or NoSQL databases such as MongoDB Generate dynamic images, create PDF files, and parse XML files Learn secure scripts, error handling, performance tuning, and other advanced topics Get a quick reference to PHP core functions and standard extensions",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449365837"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1449365833"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 540,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2S_Y6Zm02BQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2S_Y6Zm02BQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2S_Y6Zm02BQC&printsec=frontcover&dq=PHP&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2S_Y6Zm02BQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2S_Y6Zm02BQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2S_Y6Zm02BQC&rdid=book-2S_Y6Zm02BQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.539E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.4E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.4E7,
+       "currencyCode": "USD"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 90.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2S_Y6Zm02BQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This updated edition teaches everything you need to know to create effective web applications with the latest features in PHP 5.x."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6Cw3x-4ghbwC",
+   "etag": "+t8by9zsVGI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6Cw3x-4ghbwC",
+   "volumeInfo": {
+    "title": "Zend Enterprise PHP Patterns",
+    "authors": [
+     "John Coggeshall",
+     "Morgan Tocker"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2009-08-27",
+    "description": "Zend Enterprise PHP Patterns is the culmination of years of experience in the development of web-based applications designed to help enterprises big and small overcome the challenges of the web-based application world and achieve harmony in not only the architecture of their application, but also the entire process under which that application is created and maintained. Taken directly from real-life experiences in PHP application development, Zend Enterprise PHP Patterns will help you Utilize open source technologies such as PHP and Zend Framework to build robust and easy-to-maintain development infrastructures. Understand Zend Framework and its philosophical approach to building complex yet easy-to-maintain libraries of functionality for your application that can scale with your needs. Benefit through an in-depth discussion of tools and techniques that can significantly enhance your ability to develop code faster, fix bugs, and increase performance. What you’ll learn Understand how to build your applications and configure your production environments (both the web server and database servers) to maximize performance while enabling them to scale to meet your performance needs. Learn how to build PHP-based libraries that solve your needs without falling into the trap of over-architecturing while leveraging powerful tools like Zend Framework to reduce development time. Understand the importance of PHP application security and the most common security threats, but more importantly, how to incorporate a security focus into your entire development life cycle. Learn how to use tooling to gather metrics and identify performance bottlenecks in your application to maximize performance. Who this book is for This book is for intermediate–level PHP developers who will be coding in an enterprise environment and architects and project managers who will be working in a PHP enterprise environment. Table of Contents Introduction to Zend Framework Introduction to Zend Studio for Eclipse Web Application Performance and Analysis Data-Caching Strategies in PHP Asynchronous Operations with PHP Securing Your PHP Applications Monitoring Your Applications Web Services and Zend Framework Production Farms for PHP The MySQL Database",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430219743"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430219742"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6Cw3x-4ghbwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6Cw3x-4ghbwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6Cw3x-4ghbwC&printsec=frontcover&dq=PHP&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6Cw3x-4ghbwC&dq=PHP&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Zend_Enterprise_PHP_Patterns.html?hl=&id=6Cw3x-4ghbwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Zend_Enterprise_PHP_Patterns-sample-epub.acsm?id=6Cw3x-4ghbwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Zend_Enterprise_PHP_Patterns-sample-pdf.acsm?id=6Cw3x-4ghbwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6Cw3x-4ghbwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Who this book is for This book is for intermediate–level PHP developers who will be coding in an enterprise environment and architects and project managers who will be working in a PHP enterprise environment."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_ahBAAAAQBAJ",
+   "etag": "OpiG7cjMSg8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_ahBAAAAQBAJ",
+   "volumeInfo": {
+    "title": "PHP Quick Scripting Reference",
+    "authors": [
+     "Mikael Olsson"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2013-09-04",
+    "description": "The PHP Quick Scripting Reference is a condensed scripting code and syntax reference to the PHP scripting language, the most popular Web scripting language in use today. It presents the essential PHP script in a well-organized format that can be used as a handy reference. You won’t find any technical jargon, bloated samples, drawn out history lessons or witty stories in this book. What you will find is a Web scripting language reference that is concise, to the point and highly accessible. The book is packed with useful information and is a must-have for any PHP programmer or Web developer In the PHP Quick Scripting Reference, you will find: A concise reference to the PHP scripting language syntax. Short, simple and focused code examples. A well laid out table of contents and a comprehensive index allowing easy review.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430262848"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430262842"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_ahBAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_ahBAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_ahBAAAAQBAJ&printsec=frontcover&dq=PHP&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_ahBAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_ahBAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_ahBAAAAQBAJ&rdid=book-_ahBAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PHP_Quick_Scripting_Reference-sample-epub.acsm?id=_ahBAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PHP_Quick_Scripting_Reference-sample-pdf.acsm?id=_ahBAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_ahBAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book is packed with useful information and is a must-have for any PHP programmer or Web developer In the PHP Quick Scripting Reference, you will find: A concise reference to the PHP scripting language syntax."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vhM7BAAAQBAJ",
+   "etag": "pbcFUmlAPHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vhM7BAAAQBAJ",
+   "volumeInfo": {
+    "title": "PHP for Absolute Beginners",
+    "authors": [
+     "Jason Lengstorf",
+     "Thomas Blom Hansen"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2014-08-07",
+    "description": "PHP is a server-side scripting language that enables you to develop dynamic sites that engage users in ways that are simply not possible using only HTML and CSS. PHP for Absolute Beginners takes a practical approach to teaching you how to build dynamic content for your website using PHP. You’ll quickly get started with practical PHP projects, learning how to build a dynamic image gallery. By the end of the book you’ll will have developed a personal blog complete with a password protected admin module. PHP for Absolute Beginners won't swamp you with every detail of the full PHP language up front – instead, you’ll be introduced to a small, versatile subset of PHP and learn to use it creatively to develop dynamic web sites. In the process you will learn to use variables, control structures, functions, and objects to your advantage. You will learn how to plan and create databases and how to organize your PHP scripts beautifully. At the end of the book, you will be a confident PHP user, ready to take the next steps in creating great websites.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430268147"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143026814X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vhM7BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vhM7BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vhM7BAAAQBAJ&pg=PA1&dq=PHP&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vhM7BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vhM7BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vhM7BAAAQBAJ&rdid=book-vhM7BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.119E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PHP_for_Absolute_Beginners-sample-epub.acsm?id=vhM7BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/PHP_for_Absolute_Beginners-sample-pdf.acsm?id=vhM7BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vhM7BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003ePHP\u003c/b\u003e is the single most used server-side scripting language for delivering \u003cbr\u003e\nbrowser-based web applications. \u003cb\u003ePHP\u003c/b\u003e is the backbone of online giants such as \u003cbr\u003e\nFacebook, Flickr, and Yahoo. There are other server-side languages available for \u003cbr\u003e\nweb&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WkqmA1wiqCwC",
+   "etag": "xDsw0/hjr5Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WkqmA1wiqCwC",
+   "volumeInfo": {
+    "title": "PHP and MySQL Web Development",
+    "authors": [
+     "Luke Welling",
+     "Laura Thomson"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2008-10-01",
+    "description": "PHP and MySQL Web Development, Fourth Edition The definitive guide to building database-drive Web applications with PHP and MySQL and MySQL are popular open-source technologies that are ideal for quickly developing database-driven Web applications. PHP is a powerful scripting language designed to enable developers to create highly featured Web applications quickly, and MySQL is a fast, reliable database that integrates well with PHP and is suited for dynamic Internet-based applications. PHP and MySQL Web Development shows how to use these tools together to produce effective, interactive Web applications. It clearly describes the basics of the PHP language, explains how to set up and work with a MySQL database, and then shows how to use PHP to interact with the database and the server. The fourth edition of PHP and MySQL Web Development has been thoroughly updated, revised, and expanded to cover developments in PHP 5 through version 5.3, such as namespaces and closures, as well as features introduced in MySQL 5.1. This is the eBook version of the title. To gain access to the contents on the CD bundled with the printed book, please register your product at informit.com/register",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0768686431"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780768686432"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1008,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WkqmA1wiqCwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WkqmA1wiqCwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WkqmA1wiqCwC&printsec=frontcover&dq=PHP&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WkqmA1wiqCwC&dq=PHP&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PHP_and_MySQL_Web_Development.html?hl=&id=WkqmA1wiqCwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WkqmA1wiqCwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This is the eBook version of the title. To gain access to the contents on the CD bundled with the printed book, please register your product at informit.com/register"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yr02MM9UMA8C",
+   "etag": "Axx5bTAZJ5w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yr02MM9UMA8C",
+   "volumeInfo": {
+    "title": "PHP Programming with MySQL: The Web Technologies Series",
+    "authors": [
+     "Don Gosselin",
+     "Diana Kokoska",
+     "Robert Easterbrooks"
+    ],
+    "publisher": "Cengage Learning",
+    "publishedDate": "2010-01-06",
+    "description": "This book covers the basics of PHP and MySQL along with introductions to advanced topics including object-oriented programming and how to build Web sites that incorporate authentication and security. After you complete this course, you will be able to use PHP and MySQL to build professional quality, database-driven Web sites. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780538745840"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0538745843"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 712,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yr02MM9UMA8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yr02MM9UMA8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yr02MM9UMA8C&printsec=frontcover&dq=PHP&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yr02MM9UMA8C&dq=PHP&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PHP_Programming_with_MySQL_The_Web_Techn.html?hl=&id=yr02MM9UMA8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yr02MM9UMA8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book covers the basics of PHP and MySQL along with introductions to advanced topics including object-oriented programming and how to build Web sites that incorporate authentication and security."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rnSpBgAAQBAJ",
+   "etag": "fDPgk5W72CE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rnSpBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Modern PHP",
+    "subtitle": "New Features and Good Practices",
+    "authors": [
+     "Josh Lockhart"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2015-02-16",
+    "description": "PHP is experiencing a renaissance, though it may be difficult to tell with all of the outdated PHP tutorials online. With this practical guide, you’ll learn how PHP has become a full-featured, mature language with object-orientation, namespaces, and a growing collection of reusable component libraries. Author Josh Lockhart—creator of PHP The Right Way, a popular initiative to encourage PHP best practices—reveals these new language features in action. You’ll learn best practices for application architecture and planning, databases, security, testing, debugging, and deployment. If you have a basic understanding of PHP and want to bolster your skills, this is your book. Learn modern PHP features, such as namespaces, traits, generators, and closures Discover how to find, use, and create PHP components Follow best practices for application security, working with databases, errors and exceptions, and more Learn tools and techniques for deploying, tuning, testing, and profiling your PHP applications Explore Facebook’s HVVM and Hack language implementations—and how they affect modern PHP Build a local development environment that closely matches your production server",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781491904992"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1491904992"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rnSpBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rnSpBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rnSpBgAAQBAJ&printsec=frontcover&dq=PHP&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rnSpBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-rnSpBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rnSpBgAAQBAJ&rdid=book-rnSpBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.474E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rnSpBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With this practical guide, you’ll learn how PHP has become a full-featured, mature language with object-orientation, namespaces, and a growing collection of reusable component libraries."
+   }
+  }
+ ]
+}

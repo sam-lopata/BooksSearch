@@ -1,0 +1,741 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 32,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xAaABAAAQBAJ",
+   "etag": "gpe1gIZl3Ec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xAaABAAAQBAJ",
+   "volumeInfo": {
+    "title": "Yoga of Offering Food",
+    "authors": [
+     "Lama Zopa Rinpoche"
+    ],
+    "publisher": "Lama Yeshe Wisdom Archive",
+    "publishedDate": "2003",
+    "description": "All the things we do -- eating, walking, washing, working, talking -- everything can become very powerful methods for quickly achieving enlightenment. Through the Mahayana practice of offering the food we eat which is based on the Hinayana and adorned with the Vajrayana our lives become most beneficial, not only for ourselves but for all sentient beings. This book is made possible by kind supporters of the Archive who, like you, appreciate how we make these teachings freely available in so many ways, including in our website for instant reading, listening or downloading, and as printed and electronic books. Our website offers immediate access to thousands of pages of teachings and hundreds of audio recordings by some of the greatest lamas of our time. Our photo gallery and our ever-popular books are also freely accessible there. Please help us increase our efforts to spread the Dharma for the happiness and benefit of all beings. You can find out more about becoming a supporter of the Archive and see all we have to offer by visiting us online! Thank you so much, and please enjoy this ebook.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781891868122"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1891868128"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 37,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xAaABAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xAaABAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xAaABAAAQBAJ&pg=PP1&dq=Rinpochete&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xAaABAAAQBAJ&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Yoga_of_Offering_Food.html?hl=&id=xAaABAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xAaABAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lama Zopa Rinpoche Nicholas Ribush. Lama Zopa \u003cb\u003eRinpoche Te\u003c/b\u003e Yoga of \u003cbr\u003e\nOffering F THE YOGA OF OFFERING FOOD How to Make Eating the. Front Cover\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0zEX1EJkNfIC",
+   "etag": "1irijWDlLtA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0zEX1EJkNfIC",
+   "volumeInfo": {
+    "title": "Moederland",
+    "authors": [
+     "Yangzom Brauen"
+    ],
+    "publisher": "Boekerij",
+    "publishedDate": "2012-09-20",
+    "description": "Tibet, 1959. Het rustige leven van Kunsang in een afgelegen klooster in de Tibetaanse bergen wordt ruw verstoord door de komst van een Chinees bezettingsleger, en Kunsang vlucht met haar zesjarige dochtertje Sonam naar India. Wanneer Sonam als jonge vrouw een knappe Zwitser ontmoet, aarzelt ze geen moment en gaat met hem mee naar Europa. De liefde voor haar land van herkomst zit haar echter in het bloed. Een liefde die van moeder op dochter wordt doorgegeven, want nu is het Sonams dochter Yangzom die strijdt voor het land van haar moeder en haar grootmoeder. Het resultaat is een overrompelende familiekroniek van drie generaties vrouwen. Yangzom Brauen vertelt over het veelbewogen leven van drie generaties uit Tibet: over heimwee, vervolging en angst, over dood en verdriet - en over de wil om zich ondanks alles te blijven verzetten. Moederland verscheen eerder onder de titel Sneeuwland.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789460921384"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9460921388"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0zEX1EJkNfIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0zEX1EJkNfIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "nl",
+    "previewLink": "http://books.google.com/books?id=0zEX1EJkNfIC&pg=PT145&dq=Rinpochete&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0zEX1EJkNfIC&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Moederland.html?hl=&id=0zEX1EJkNfIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Moederland-sample-epub.acsm?id=0zEX1EJkNfIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Moederland-sample-pdf.acsm?id=0zEX1EJkNfIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0zEX1EJkNfIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De reis voerde hen allereerst naar Darjeeling, van waaruit Mola in haar eentje \u003cbr\u003e\nnaar Kalimpong ging om Dudjom \u003cb\u003eRinpoche te\u003c/b\u003e ontmoeten en hem het \u003cbr\u003e\nhuwelijksaanzoek van Martin nog een keer voor te leggen, ditmaal persoonlijk. \u003cbr\u003e\nTijdens de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RPZCl9mmXa0C",
+   "etag": "DGA9t7H6Es4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RPZCl9mmXa0C",
+   "volumeInfo": {
+    "title": "Tibet",
+    "subtitle": "guide du pèlerin",
+    "authors": [
+     "Victor Chan"
+    ],
+    "publisher": "Editions Olizane",
+    "publishedDate": "1998",
+    "description": "Cet ouvrage est sans contexte le guide le plus complet écrit à ce jour sur le Tibet. Outre une introduction indispensable à la compréhension du bouddhisme tantrique, l'ouvrage comprend 60 itinéraires de trekking et de pèlerinage vers des destinations sacrées, telles que la vallée des Rois à Chongye et le lac Lhamo Latso. En plus de nombreux renseignements pratiques en tous genres, ce guide comprend plus de 200 cartes et plans et des chapitres consacrés à l'histoire et à l'art tibétains avec une riche présentation de l'iconographie bouddhique tibétaine. Un chapitre détaillé est également consacré à la langue tibétaine parlée, comprenant un glossaire indispensable au voyageur individuel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2880862175"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782880862176"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1211,
+    "printType": "BOOK",
+    "categories": [
+     "Tibet Autonomous Region (China)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RPZCl9mmXa0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RPZCl9mmXa0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=RPZCl9mmXa0C&pg=PA1187&dq=Rinpochete&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RPZCl9mmXa0C&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tibet.html?hl=&id=RPZCl9mmXa0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RPZCl9mmXa0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Olizane, Genève, 1994 Aschof J. , Tsaparang-Kônigsstadt in Westtibet, Munich, \u003cbr\u003e\n1989 Aschof J. &amp; Meyer H. , Tsaparang, Fribourg, 1987 Aufschnaiter P. , Sein \u003cbr\u003e\nLeben in Tibet, Innsbruck, 1983 Bancaud, H. &amp; Dagpo \u003cb\u003eRinpoche, te\u003c/b\u003e Dala&#39;i-Lama,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fWz55-rCLbsC",
+   "etag": "JzAIzYk09Wk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fWz55-rCLbsC",
+   "volumeInfo": {
+    "title": "The Tibetan Yogas of Dream and Sleep",
+    "authors": [
+     "Tenzin Wangyal Rinpoche",
+     "Mark Dahlby"
+    ],
+    "publisher": "Motilal Banarsidass Publ.",
+    "publishedDate": "2004-01-01",
+    "description": "In the Tibetan tradition the ability to dream lucidly is not and end in itself rather it provides as additonal context in which one can engage in advanced and effective practices to achieve liberation. Dream yoga is followed by sleep yoga also known as the yoga of clear light. It is a more advanced practice similar to the most secret Tibetan practices. The goal is to remain aware during deep sleep when the gross conceptual mind and the operation of the senses cease.The result of these practicas is greater happiness and freedom in both our waking and dreaming states.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8120820037"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788120820036"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+     "Dreams"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fWz55-rCLbsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fWz55-rCLbsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fWz55-rCLbsC&printsec=frontcover&dq=Rinpochete&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fWz55-rCLbsC&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Tibetan_Yogas_of_Dream_and_Sleep.html?hl=&id=fWz55-rCLbsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fWz55-rCLbsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In the Tibetan tradition the ability to dream lucidly is not and end in itself rather it provides as additonal context in which one can engage in advanced and effective practices to achieve liberation."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y-SrDAAAQBAJ",
+   "etag": "jS5vxpHBs6c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y-SrDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Pure Appearance",
+    "subtitle": "Development and Completion Stages in Vajrayana Practice",
+    "authors": [
+     "Dilgo Khyentse"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2016-07-26",
+    "description": "A complex topic is here made crystal clear through the heartfelt teaching of one of the great Tibetan Buddhist masters of the twentieth century. With Pure Appearance Dilgo Khyenste Rinpoche offers an overview of Tibetan tantric practice that explains its concepts, clarifies its terminology, and shows how its myriad pieces fit together, including an extensive teaching on the bardos, or \"between states\"—essential for those new to the topic and a source of illumination for longtime students. Vajrayana methods for realizing the true nature of the mind take the resultant state of buddhahood as the path, or what is to be practiced. Pure Appearance focuses on the generation and completion stages of tantra that work with the pure form aspect of enlightenment. In this short but densely packed teaching Dilgo Khyentse Rinpoche explains the structure of the tantric path and how its stages are put into practice, in terms that apply generally across the spectrum of deity practices. He emphasizes the distinctive features of the Nyingma approach but frequently correlates them with their counterparts in the New Translation traditions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780834840287"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0834840286"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.8.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Y-SrDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Y-SrDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Y-SrDAAAQBAJ&printsec=frontcover&dq=Rinpochete&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Y-SrDAAAQBAJ&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pure_Appearance.html?hl=&id=Y-SrDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pure_Appearance-sample-epub.acsm?id=Y-SrDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pure_Appearance-sample-pdf.acsm?id=Y-SrDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y-SrDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With Pure Appearance Dilgo Khyenste Rinpoche offers an overview of Tibetan tantric practice that explains its concepts, clarifies its terminology, and shows how its myriad pieces fit together, including an extensive teaching on the bardos, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0czByWU0US8C",
+   "etag": "WWo2v+aHQTY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0czByWU0US8C",
+   "volumeInfo": {
+    "title": "The Sun of Wisdom",
+    "subtitle": "Teachings on the Noble Nagarjuna's Fundamental Wisdom of the Middle Way",
+    "authors": [
+     "Rinpoche Khenpo Tsultrim Gyamtso"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2003",
+    "description": "A well-known teacher explains the Buddhist concept of emptiness, drawing on a classic text by Nagarjuna, one of the most important figures in Buddhist history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570629990"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1570629994"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0czByWU0US8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0czByWU0US8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0czByWU0US8C&printsec=frontcover&dq=Rinpochete&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0czByWU0US8C&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Sun_of_Wisdom.html?hl=&id=0czByWU0US8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sun_of_Wisdom-sample-epub.acsm?id=0czByWU0US8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sun_of_Wisdom-sample-pdf.acsm?id=0czByWU0US8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0czByWU0US8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A well-known teacher explains the Buddhist concept of emptiness, drawing on a classic text by Nagarjuna, one of the most important figures in Buddhist history."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_4hRmNwuY-UC",
+   "etag": "BK5V9qPfl7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_4hRmNwuY-UC",
+   "volumeInfo": {
+    "title": "Guru Rinpoche",
+    "subtitle": "His Life and Times",
+    "authors": [
+     "Ngawang Zangpo"
+    ],
+    "publisher": "Shambhala",
+    "publishedDate": "2002-09-16",
+    "description": "To Tibetan Buddhists, Guru Rinpoche is a Buddha. This book recounts Guru Rinpoche's historic visit to Tibet and explains his continuing significance to Buddhists. In doing so, it illustrates how a country whose powerful armies overran the capital of China and installed a puppet emperor came to abandon its aggressive military campaigns: this transformation was due to Guru Rinpoche, who tamed and converted Tibet to Buddhism and thereby changed the course of Asian history. Four very different Tibetan accounts of his story are presented: one by Jamgon Kongtrul; one according to the pre-Buddhist Tibetan religion Bön, by Jamyang Kyentse Wongpo; one based on Indian and early Tibetan historical documents, by Taranata; and one by Dorje Tso. In addition, there are supplications by Guru Rinpoche and visualizations to accompany them by Jamgon Kongtrul. Guru Rinpoche is part of The Tsadra Foundation series published by Snow Lion Publications. The Tsadra Foundation takes its inspiration from the nineteenth-century nonsectarian Tibetan scholar and meditation master Jamgon Kongtrul Lodro Taye, and is named after his hermitage in eastern Tibet, Tsadra Rinchen Drak. The Foundation's programs reflect his values of excellence in both scholarship and contemplative practice, and a recognition of their mutual complementarity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1559399724"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781559399722"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_4hRmNwuY-UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_4hRmNwuY-UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_4hRmNwuY-UC&printsec=frontcover&dq=Rinpochete&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=_4hRmNwuY-UC&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guru_Rinpoche.html?hl=&id=_4hRmNwuY-UC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Guru_Rinpoche-sample-pdf.acsm?id=_4hRmNwuY-UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_4hRmNwuY-UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "To Tibetan Buddhists, Guru Rinpoche is a Buddha. This book recounts Guru Rinpoche&#39;s historic visit to Tibet and explains his continuing significance to Buddhists."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p_kU0eF1tYoC",
+   "etag": "/WBEP1muzcM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p_kU0eF1tYoC",
+   "volumeInfo": {
+    "title": "Born in Tibet",
+    "authors": [
+     "Chogyam Trungpa"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2000-10-10",
+    "description": "Chögyam Trungpa—meditation master, scholar, and artist—was identified at the age of only thirteen months as a major tulku, or reincarnation of an enlightened teacher. As the eleventh in the teaching lineage known as the Trungpa tulkus, he underwent a period of intensive training in meditation, philosophy, and fine arts, receiving full ordination as a monk in 1958 at the age of eighteen. The following year, the Chinese Communists invaded Tibet, and the young Trungpa spent many harrowing months trekking over the Himalayas, narrowly escaping capture. Trungpa's account of his experiences as a young monk, his duties as the abbot and spiritual head of a great monastery, and his moving relationships with his teachers offers a rare and intimate glimpse into the life of a Tibetan lama. The memoir concludes with his daring escape from Tibet to India. In an epilogue, he describes his emigration to the West, where he encountered many people eager to learn about the ancient wisdom of Tibetan Buddhism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0834821303"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780834821309"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=p_kU0eF1tYoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=p_kU0eF1tYoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=p_kU0eF1tYoC&printsec=frontcover&dq=Rinpochete&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=p_kU0eF1tYoC&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Born_in_Tibet.html?hl=&id=p_kU0eF1tYoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Born_in_Tibet-sample-epub.acsm?id=p_kU0eF1tYoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Born_in_Tibet-sample-pdf.acsm?id=p_kU0eF1tYoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p_kU0eF1tYoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As the eleventh in the teaching lineage known as the Trungpa tulkus, he underwent a period of intensive training in meditation, philosophy, and fine arts, receiving full ordination as a monk in 1958 at the age of eighteen."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C1WtWHq1I_4C",
+   "etag": "GarWunvNBi0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C1WtWHq1I_4C",
+   "volumeInfo": {
+    "title": "The Crystal and the Way of Light",
+    "subtitle": "Sutra, Tantra, and Dzogchen",
+    "authors": [
+     "Namkhai Norbu"
+    ],
+    "publisher": "Shambhala",
+    "publishedDate": "1986",
+    "description": "In The Crystal and the Way of Light, Chogyal Namkhai Norbu examines the spiritual path from the viewpoint of Dzogchen. He discusses the base path and fruit of Dzogchen practice, and describes his education and how he met his principal master who showed him the real meaning of direct introduction to Dzogchen. By interweaving his life story with the teachings, he both sets Dzogchen in its traditional context and reveals its powerful contemporary relevance. The book is richly illustrated with photos of Buddhist masters, meditational deities, and Dzogchen symbols.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1559399074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781559399074"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.4.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=C1WtWHq1I_4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=C1WtWHq1I_4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C1WtWHq1I_4C&printsec=frontcover&dq=Rinpochete&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=C1WtWHq1I_4C&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Crystal_and_the_Way_of_Light.html?hl=&id=C1WtWHq1I_4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Crystal_and_the_Way_of_Light-sample-pdf.acsm?id=C1WtWHq1I_4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C1WtWHq1I_4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book is richly illustrated with photos of Buddhist masters, meditational deities, and Dzogchen symbols."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wX9O-rhRW7sC",
+   "etag": "Jv7pLzEB4Ic",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wX9O-rhRW7sC",
+   "volumeInfo": {
+    "title": "The Myth of Freedom and the Way of Meditation",
+    "authors": [
+     "Chogyam Trungpa"
+    ],
+    "publisher": "Shambhala Publications",
+    "publishedDate": "2002",
+    "description": "Freedom is generally thought of as the ability to achieve goals and satisfy desires. But what are the sources of these goals and desires? If they arise from ignorance, habitual patterns, and negative emotions - psychologically destructive elements that actually enslave us - is the freedom to pursue them true freedom or just a myth?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781570629334"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1570629331"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 179,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wX9O-rhRW7sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wX9O-rhRW7sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wX9O-rhRW7sC&printsec=frontcover&dq=Rinpochete&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wX9O-rhRW7sC&dq=Rinpochete&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Myth_of_Freedom_and_the_Way_of_Medit.html?hl=&id=wX9O-rhRW7sC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Myth_of_Freedom_and_the_Way_of_Medit-sample-epub.acsm?id=wX9O-rhRW7sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Myth_of_Freedom_and_the_Way_of_Medit-sample-pdf.acsm?id=wX9O-rhRW7sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wX9O-rhRW7sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This edition features a new foreword by Pema Ch dr n, a close student of Trungpa and the best-selling author of When Things Fall Apart."
+   }
+  }
+ ]
+}

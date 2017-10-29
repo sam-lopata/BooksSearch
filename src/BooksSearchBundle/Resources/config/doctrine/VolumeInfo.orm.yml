@@ -15,13 +15,17 @@ BooksSearchBundle\Entity\VolumeInfo:
         publishedDate:
             type: string
             length: 255
+            nullable: true
         description:
             type: text
+            nullable: true
         pageCount:
             type: integer
+            nullable: true
         language:
             type: string
             length: 255
+            nullable: true
         previewLink:
             type: string
             length: 255

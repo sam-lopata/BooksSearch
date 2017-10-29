@@ -1,0 +1,867 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2841,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XG3V-1SesbwC",
+   "etag": "MrKTMW4oxsI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XG3V-1SesbwC",
+   "volumeInfo": {
+    "title": "Black House",
+    "authors": [
+     "Stephen King",
+     "Peter Straub"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2012-11-06",
+    "description": "The acclaimed #1 New York Times and internationally bestselling horror novel from the undisputed King of Horror, Stephen King’s Black House is now reprinted for a modern-day audience. Twenty years ago, a boy named Jack Sawyer traveled to a parallel universe called the Territories to save his mother and her Territories “Twinner” from an agonizing death that would have brought cataclysm to the other world. Now Jack is a retired Los Angeles homicide detective living in the nearly nonexistent hamlet of Tamarack, Wisconsin. He has no recollection of his adventures in the Territories, and was compelled to leave the police force when an odd, happenstance event threatened to awaken those memories. When a series of gruesome murders occur in western Wisconsin that are reminiscent of those committed several decades ago by a madman named Albert Fish, the killer is dubbed “the Fishman,” and Jack’s buddy, the local chief of police, begs Jack to help the inexperienced force find him. But are these new killings merely the work of a disturbed individual, or has a mysterious and malignant force been unleashed in this quiet town? What causes Jack’s inexplicable waking dreams—if that is what they are—of robins’ eggs and red feathers? It’s almost as if someone is trying to tell him something. As this cryptic message becomes increasingly impossible to ignore, Jack is drawn back to the Territories and to his own hidden past, where he may find the soul-strength to enter a terrifying house at the end of a deserted tract of forest, there to encounter the obscene and ferocious evils sheltered within it.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781451698374"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1451698372"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 848,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 39,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XG3V-1SesbwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XG3V-1SesbwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XG3V-1SesbwC&printsec=frontcover&dq=Stephen+King&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XG3V-1SesbwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XG3V-1SesbwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XG3V-1SesbwC&rdid=book-XG3V-1SesbwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Black_House-sample-epub.acsm?id=XG3V-1SesbwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XG3V-1SesbwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "But are these new killings merely the work of a disturbed individual, or has a mysterious and malignant force been unleashed in this quiet town?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IbcACwAAQBAJ",
+   "etag": "rO5O04pSehM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IbcACwAAQBAJ",
+   "volumeInfo": {
+    "title": "Roadwork",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-01-01",
+    "description": "Only Stephen King, writing as Richard Bachman, can imagine the horror of a good and angry man who fights back against bureaucracy when it threatens to destroy his vitality, home, and memories. “Under any name King mesmerizes the reader” (Chicago Sun-Times). Barton Dawes is standing in the way of progress when his unremarkable but comfortable existence suddenly takes a turn for the worst. A new highway extension is being built right over the laundry plant where he works—and right over his home. The house he has lived in for twenty years and where he created loving memories with his family. Dawes isn’t the sort of man who will take an insult of this magnitude lying down. His steadfast determination to fight the inevitable course of progress drives his wife and friends away while he tries to face down the uncaring bureaucracy that has destroyed his life. But before the city paves over that part of Dawes’s life, he’s got one more party to throw—and it’ll be a blast. What happens when one good (and angry) man fights back…and then some? This #1 national bestseller includes an introduction by Stephen King on “The Importance of Being Bachman.”",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501141331"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1501141333"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IbcACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IbcACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IbcACwAAQBAJ&printsec=frontcover&dq=Stephen+King&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IbcACwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IbcACwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IbcACwAAQBAJ&rdid=book-IbcACwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Roadwork-sample-epub.acsm?id=IbcACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IbcACwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Only Stephen King, writing as Richard Bachman, can imagine the horror of a good and angry man who fights back against bureaucracy when it threatens to destroy his vitality, home, and memories. “Under any name King mesmerizes the reader” ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PbQACwAAQBAJ",
+   "etag": "rs8Mu77wsO0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PbQACwAAQBAJ",
+   "volumeInfo": {
+    "title": "Desperation",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-01-01",
+    "description": "“The terror is relentless” (Publishers Weekly) in Stephen King’s #1 national bestseller about a little mining town, Desperation, that many will enter on their way to somewhere else. But getting out is not easy as it would seem… Located off a desolate stretch of Interstate 50, Desperation, Nevada, has few connections with the rest of the world. It is a place, though, where the seams between worlds are thin. And it is a place where several travelers are abducted by Collie Entragian, the maniacal police officer of Desperation. Entragian uses various ploys for the abductions, from an arrest for drug possession to “rescuing” a family from a nonexistent gunman. There’s something very wrong here, all right, and Entragian is only the surface of it. The secrets embedded in Desperation’s landscape, and the evil that infects the town like some viral hot zone, are both awesome and terrifying. But as one of the travelers, young David Carver, seems to know—though it scares him nearly to death to realize it—so are the forces summoned to combat them. “Stephen King’s knack for turning the stray junk of pop culture into sick, darkly engrossing thrills has rarely been this much in evidence as in Desperation” (Salon).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501141164"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1501141163"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PbQACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PbQACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PbQACwAAQBAJ&printsec=frontcover&dq=Stephen+King&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PbQACwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PbQACwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PbQACwAAQBAJ&rdid=book-PbQACwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Desperation-sample-epub.acsm?id=PbQACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PbQACwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“The terror is relentless” (Publishers Weekly) in Stephen King’s #1 national bestseller about a little mining town, Desperation, that many will enter on their way to somewhere else."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FFMADAAAQBAJ",
+   "etag": "y9sWORmmDj0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FFMADAAAQBAJ",
+   "volumeInfo": {
+    "title": "Thinner",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-04-26",
+    "description": "The “extraordinary” (Booklist) novel of one man’s quest to find the source of his nightmare and to reverse it before he becomes…nothing at all. This #1 national bestseller from Stephen King, writing as Richard Bachman, “pulsates with evil…it will have you on the edge of your seat” (Publishers Weekly). “You can’t do anything…It’s gone too far. You understand, Halleck? Too…far.” Attorney Billy Halleck seriously enjoys living his life of upper-class excess. He’s got it all\u00ad—an expensive home in Connecticut, a loving family…and fifty extra pounds that his doctor repeatedly warns will be the death of him. Then, in a moment of carelessness, Halleck commits vehicular manslaughter when he strikes a jaywalking old woman crossing the street. But Halleck has some powerful local connections, and gets off with a slap on the wrist…much to the fury of the woman’s mysterious and ancient father, who exacts revenge with a single word: “Thinner.” Now a terrified Halleck finds the weight once so difficult to shed dropping effortlessly—and rapidly—by the week. Soon there will be nothing left of Billy Halleck…unless he can somehow locate the source of his living nightmare and reverse what’s happened to him before he utterly wastes away…",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501143762"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "150114376X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 31,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FFMADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FFMADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FFMADAAAQBAJ&printsec=frontcover&dq=Stephen+King&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FFMADAAAQBAJ&dq=Stephen+King&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Thinner.html?hl=&id=FFMADAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FFMADAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "His wife was pleased - as she should have been. But... &#39;Thinner&#39; - an old man&#39;s curse, had lodged in his mind like a fattening worm, eating at his flesh, at his reason. And with his despair, came violence."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s_8dAwAAQBAJ",
+   "etag": "WfprWhVjAwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s_8dAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Under the Dome: Part 2",
+    "subtitle": "A Novel",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-03-25",
+    "description": "After an invisible force field seals off Chester Mills, Maine, from the rest of the world, it is up to Dale Barbara, an Iraq veteran, and a select group of citizens to save the town, if they can get past Big Jim Rennie, a murderous politician, and his son, who hides a horrible secret in his dark pantry. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781476767284"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1476767289"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 603,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s_8dAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s_8dAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=s_8dAwAAQBAJ&printsec=frontcover&dq=Stephen+King&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=s_8dAwAAQBAJ&dq=Stephen+King&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Under_the_Dome_Part_2.html?hl=&id=s_8dAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s_8dAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "After an invisible force field seals off Chester Mills, Maine, from the rest of the world, it is up to Dale Barbara, an Iraq veteran, and a select group of citizens to save the town, if they can get past Big Jim Rennie, a murderous ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h7QACwAAQBAJ",
+   "etag": "mbJYtIfVAbM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h7QACwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dolores Claiborne",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-01-01",
+    "description": "“An unforgettable, unflinching glimpse into a mind driven to murder” (San Francisco Chronicle)—the #1 national bestseller from Stephen King about a housekeeper with a long-hidden secret from her past…one that tests her own will to survive. Dolores Claiborne is suspected of killing Vera Donovan, her wealthy employer, and when the police question her, she tells the story of her life, harkening back to her disintegrating marriage and the suspicious death of her violent husband thirty years earlier. Dolores also tells of Vera’s physical and mental decline and how she became emotionally demanding in recent years. Given a voice as compelling as any in contemporary fiction, the strange intimacy between Dolores and Vera—and the link that binds them—unfolds in Dolores’s account. It shows, finally, how fierce love can be, and how dreadful its consequences. And how the soul, harrowed by the hardest life, can achieve a kind of grace. Hailed by Entertainment Weekly as a “tour de force, Dolores Claiborne is “a literary triumph. The finest of King novels…a plot of enormous energy…Read this book” (Milwaukee Journal Sentinel).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501141188"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "150114118X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 38,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h7QACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h7QACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=h7QACwAAQBAJ&printsec=frontcover&dq=Stephen+King&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=h7QACwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-h7QACwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=h7QACwAAQBAJ&rdid=book-h7QACwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dolores_Claiborne-sample-epub.acsm?id=h7QACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h7QACwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dolores Claiborne is suspected of killing Vera Donovan, her wealthy employer, and when the police question her, she tells the story of her life, harkening back to her disintegrating marriage and the suspicious death of her violent husband ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J_Kw1oREJcUC",
+   "etag": "ECK1DUj7PbU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J_Kw1oREJcUC",
+   "volumeInfo": {
+    "title": "Dreamcatcher",
+    "subtitle": "A Novel",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2001-03-20",
+    "description": "Once upon a time, in the haunted city of Derry (site of the classics It and Insomnia), four boys stood together and did a brave thing. Certainly a good thing, perhaps even a great thing. Something that changed them in ways they could never begin to understand. Twenty-five years later, the boys are now men with separate lives and separate troubles. But the ties endure. Each hunting season the foursome reunite in the woods of Maine. This year, a stranger stumbles into their camp, disoriented, mumbling something about lights in the sky. His incoherent ravings prove to be dis-turbingly prescient. Before long, these men will be plunged into a horrifying struggle with a creature from another world. Their only chance of survival is locked in their shared past -- and in the Dreamcatcher. Stephen King's first full-length novel since Bag of Bones is, more than anything, a story of how men remember, and how they find their courage. Not since The Stand has King crafted a story of such astonishing range -- and never before has he contended so frankly with the heart of darkness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743221887"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0743221885"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 27,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.12.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J_Kw1oREJcUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J_Kw1oREJcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=J_Kw1oREJcUC&printsec=frontcover&dq=Stephen+King&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=J_Kw1oREJcUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-J_Kw1oREJcUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 8.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=J_Kw1oREJcUC&rdid=book-J_Kw1oREJcUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Dreamcatcher-sample-epub.acsm?id=J_Kw1oREJcUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J_Kw1oREJcUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Their only chance of survival is locked in their shared past -- and in the Dreamcatcher. Stephen King&#39;s first full-length novel since Bag of Bones is, more than anything, a story of how men remember, and how they find their courage."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lp5vDgAAQBAJ",
+   "etag": "qAtOrJ2PlQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lp5vDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Different Seasons",
+    "subtitle": "Four Novellas",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2017-03-28",
+    "description": "The #1 New York Times bestselling collection of four novellas from Stephen King bound together by the changing of seasons, each with strikingly different tones and characters. This gripping collection begins with “Rita Hayworth and the Shawshank Redemption,” in which an unjustly imprisoned convict seeks a strange and startling revenge—the basis for the Best Picture Academy Award-nominee The Shawshank Redemption. Next is “Apt Pupil,” the inspiration for the film of the same name about top high school student Todd Bowden and his obsession with the dark and deadly past of an older man in town. In “The Body,” four rambunctious young boys plunge through the façade of a small town and come face-to-face with life, death, and intimations of their own mortality in the novella that became the movie Stand By Me. Finally, a disgraced woman is determined to triumph over death in “The Breathing Method.” “The wondrous readability of his work, as well as the instant sense of communication with his characters, are what make Stephen King the consummate storyteller that he is.\" —Houston Chronicle",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501156762"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1501156764"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 688,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 57,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lp5vDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lp5vDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lp5vDgAAQBAJ&printsec=frontcover&dq=Stephen+King&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lp5vDgAAQBAJ&dq=Stephen+King&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Different_Seasons.html?hl=&id=lp5vDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lp5vDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This gripping collection begins with Rita Hayworth and the Shawshank Redemption, in which an unjustly imprisoned convict seeks a strange and startling revenge the basis for the Best Picture Academy Award-nominee The Shawshank Redemption."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Bv0DAAAACAAJ",
+   "etag": "KJXj5yP6Qak",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bv0DAAAACAAJ",
+   "volumeInfo": {
+    "title": "Insomnia",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Turtleback",
+    "publishedDate": "1995-01",
+    "description": "Ralph Roberts, a widower suffering from insomnia, begins to experience strange visual phenomena and is unable to believe that they are merely hallucinations",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0606077081"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780606077088"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 663,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 57,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Bv0DAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Bv0DAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Bv0DAAAACAAJ&dq=Stephen+King&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Bv0DAAAACAAJ&dq=Stephen+King&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Insomnia.html?hl=&id=Bv0DAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Bv0DAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ralph Roberts, a widower suffering from insomnia, begins to experience strange visual phenomena and is unable to believe that they are merely hallucinations"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wuMlDwAAQBAJ",
+   "etag": "EOmlTBa06ZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wuMlDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Gwendy's Button Box",
+    "authors": [
+     "Stephen King",
+     "Richard Chizmar"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2017-06-02",
+    "description": "'A resonant novella set in one of King's signature locales: the small town of Castle Rock, Maine' Washington Post The small town of CASTLE ROCK, MAINE has witnessed some strange events and unusual visitors over the years, but there is one story that has never been told...until now. There are three ways up to Castle View from the town of Castle Rock: Route 117, Pleasant Road, and the Suicide Stairs. Every day in the summer of 1974 twelve-year-old Gwendy Peterson has taken the stairs, which are held by strong (if time-rusted) iron bolts and zig-zag up the cliffside. At the top of the stairs, Gwendy catches her breath and listens to the shouts of the kids on the playground. From a bit farther away comes the chink of an aluminum bat hitting a baseball as the Senior League kids practice for the Labor Day charity game. One day, a stranger calls to Gwendy: 'Hey, girl. Come on over here for a bit. We ought to palaver, you and me.' On a bench in the shade sits a man in black jeans, a black suit coat, and a white shirt unbuttoned at the top. On his head is a small neat black hat. The time will come when Gwendy has nightmares about that hat... Journey back to Castle Rock in this chilling new novella by Stephen King, bestselling author of The Bazaar of Bad Dreams, and Richard Chizmar, award-winning author of A Long December.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781473672109"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1473672104"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wuMlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wuMlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wuMlDwAAQBAJ&dq=Stephen+King&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=wuMlDwAAQBAJ&dq=Stephen+King&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gwendy_s_Button_Box.html?hl=&id=wuMlDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wuMlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;A resonant novella set in one of King&#39;s signature locales: the small town of Castle Rock, Maine&#39; Washington Post The small town of CASTLE ROCK, MAINE has witnessed some strange events and unusual visitors over the years, but there is one ..."
+   }
+  }
+ ]
+}

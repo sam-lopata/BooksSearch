@@ -1,0 +1,691 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 3251,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iyNQpJ4oaMcC",
+   "etag": "YlWbnMj7+lA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iyNQpJ4oaMcC",
+   "volumeInfo": {
+    "title": "The Jazz Theory Book",
+    "authors": [
+     "Mark Levine"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2011-01-12",
+    "description": "The most highly-acclaimed jazz theory book ever published! Over 500 pages of comprehensive, but easy to understand text covering every aspect of how jazz is constructed---chord construction, II-V-I progressions, scale theory, chord/scale relationships, the blues, reharmonization, and much more. A required text in universities world-wide, translated into five languages, endorsed by Jamey Aebersold, James Moody, Dave Liebman, etc.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781457101458"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1457101459"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iyNQpJ4oaMcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iyNQpJ4oaMcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iyNQpJ4oaMcC&pg=PP1&dq=Jazz&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iyNQpJ4oaMcC&dq=Jazz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Jazz_Theory_Book.html?hl=&id=iyNQpJ4oaMcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iyNQpJ4oaMcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The most highly-acclaimed jazz theory book ever published!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QVr_AgAAQBAJ",
+   "etag": "4MLU94SuNMg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QVr_AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Jazz and Its Discontents",
+    "subtitle": "A Francis Davis Reader",
+    "authors": [
+     "Francis Davis"
+    ],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2004",
+    "description": "The most important writing of Francis Davis, whose essays on American music and American culture have appeared in The New Yorker, The Atlantic Monthly, and Village Voice for more than twenty years, are collected in a definitive anthology. Original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306810558"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0306810557"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QVr_AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QVr_AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QVr_AgAAQBAJ&printsec=frontcover&dq=Jazz&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QVr_AgAAQBAJ&dq=Jazz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jazz_and_Its_Discontents.html?hl=&id=QVr_AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QVr_AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The most important writing of Francis Davis, whose essays on American music and American culture have appeared in The New Yorker, The Atlantic Monthly, and Village Voice for more than twenty years, are collected in a definitive anthology."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LnTW4UaXJrMC",
+   "etag": "Xv2+OBCgboE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LnTW4UaXJrMC",
+   "volumeInfo": {
+    "title": "Jazz",
+    "authors": [
+     "Jeanpaul Ferro"
+    ],
+    "publisher": "Honest Publishing",
+    "publishedDate": "2011-04",
+    "description": "Romantic and full of wistful humor, Ferro's poetry seduces through its humanity and humility. Here are poems dealing with break-ups, city life, and disappointments. Relevant and vibrant, they speak to the heart and mind.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780956665867"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0956665861"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 98,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LnTW4UaXJrMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LnTW4UaXJrMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LnTW4UaXJrMC&printsec=frontcover&dq=Jazz&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LnTW4UaXJrMC&dq=Jazz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jazz.html?hl=&id=LnTW4UaXJrMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LnTW4UaXJrMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Romantic and full of wistful humor, Ferro&#39;s poetry seduces through its humanity and humility. Here are poems dealing with break-ups, city life, and disappointments. Relevant and vibrant, they speak to the heart and mind."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r5mt8niLiY4C",
+   "etag": "saU9YUX/v00",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r5mt8niLiY4C",
+   "volumeInfo": {
+    "title": "The Creation of Jazz",
+    "subtitle": "Music, Race, and Culture in Urban America",
+    "authors": [
+     "Burton W. Peretti"
+    ],
+    "publisher": "University of Illinois Press",
+    "publishedDate": "1994-01-01",
+    "description": "\"As musicians, listeners, and scholars have sensed for many years, the story of jazz is more than a history of the music. Burton Peretti presents a fascinating account of how the racial and cultural dynamics of American cities created the music, life, and business that was jazz.\" \"From its origins in the jook joints of sharecroppers and the streets and dance halls of 1890s New Orleans, through its later metamorphoses in the cities of the North, Peretti charts the life of jazz culture to the eve of bebop and World War II.\" \"In the course of those fifty years, jazz was the story of players who made the transition from childhood spasm bands to Carnegie Hall and worldwide touring and fame. It became the music of the Twenties, a decade of Prohibition, of adolescent discontent, of Harlem pride, and of Americans hoping to preserve cultural traditions in an urban, commercial age. And jazz was where black and white musicians performed together, as uneasy partners, in the big bands of Artie Shaw and Benny Goodman. \"Blacks fought back by using jazz,\" states Peretti, \"with its unique cultural and intellectual properties, to prove, assess, and evade the \"dynamic of minstrelsy.\"\" \"Drawing on newspaper reports of the times and on the firsthand testimony of more than seventy prominent musicians and singers (among them Benny Carter, Bud Freeman, Kid Ory, and Mary Lou Williams), The Creation of Jazz is the first comprehensive analysis of the role of early jazz in American social history.\"--P.4 de la couv.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0252064216"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780252064210"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r5mt8niLiY4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r5mt8niLiY4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=r5mt8niLiY4C&printsec=frontcover&dq=Jazz&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=r5mt8niLiY4C&dq=Jazz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Creation_of_Jazz.html?hl=&id=r5mt8niLiY4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r5mt8niLiY4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;As musicians, listeners, and scholars have sensed for many years, the story of jazz is more than a history of the music."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "d48sxdQk_F4C",
+   "etag": "65/fb67jUfU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d48sxdQk_F4C",
+   "volumeInfo": {
+    "title": "Metal, Rock, and Jazz",
+    "subtitle": "Perception and the Phenomenology of Musical Experience",
+    "authors": [
+     "Harris M. Berger"
+    ],
+    "publisher": "Wesleyan University Press",
+    "publishedDate": "1999-01-01",
+    "description": "A lively comparison of musical meaning in Ohio's Jazz, metal, and hard rock scene.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0819563765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780819563767"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 334,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d48sxdQk_F4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d48sxdQk_F4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d48sxdQk_F4C&printsec=frontcover&dq=Jazz&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=d48sxdQk_F4C&dq=Jazz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Metal_Rock_and_Jazz.html?hl=&id=d48sxdQk_F4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d48sxdQk_F4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A lively comparison of musical meaning in Ohio&#39;s Jazz, metal, and hard rock scene."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DJ5Asg-K-RQC",
+   "etag": "k5nodlLOPEI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DJ5Asg-K-RQC",
+   "volumeInfo": {
+    "title": "Jazz Guitar Lines",
+    "authors": [
+     "Lucky Elden"
+    ],
+    "publisher": "Alfred Music Publishing",
+    "publishedDate": "1994-07-01",
+    "description": "This book gets straight to the point -- learn jazz by playing jazz, not scales and arpeggios. Contains over 40 lines, licks and phrases. You will learn how to build your own lines, connect lines to create phrases, and use them over chord changes. Written in standard notation and tab.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0910957673"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780910957670"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 31,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DJ5Asg-K-RQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DJ5Asg-K-RQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DJ5Asg-K-RQC&printsec=frontcover&dq=Jazz&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DJ5Asg-K-RQC&dq=Jazz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jazz_Guitar_Lines.html?hl=&id=DJ5Asg-K-RQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DJ5Asg-K-RQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book gets straight to the point -- learn jazz by playing jazz, not scales and arpeggios."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WL3uW3zmO4YC",
+   "etag": "3iARaxFhIg8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WL3uW3zmO4YC",
+   "volumeInfo": {
+    "title": "Jazz",
+    "subtitle": "A Regional Exploration",
+    "authors": [
+     "Scott Yanow"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2005-01-01",
+    "description": "Looks at the history of jazz, discussing its roots and influences, distinct styles such as ragtime, swing, Latin jazz, bebop, and fusion and offering biographies of important jazz musicians.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313328714"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313328718"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WL3uW3zmO4YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WL3uW3zmO4YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WL3uW3zmO4YC&printsec=frontcover&dq=Jazz&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WL3uW3zmO4YC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WL3uW3zmO4YC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 78.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 63.16,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WL3uW3zmO4YC&rdid=book-WL3uW3zmO4YC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.895E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.316E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jazz-sample-epub.acsm?id=WL3uW3zmO4YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Jazz-sample-pdf.acsm?id=WL3uW3zmO4YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WL3uW3zmO4YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Looks at the history of jazz, discussing its roots and influences, distinct styles such as ragtime, swing, Latin jazz, bebop, and fusion and offering biographies of important jazz musicians."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PjVVCwAAQBAJ",
+   "etag": "Tp4RqOQ6LsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PjVVCwAAQBAJ",
+   "volumeInfo": {
+    "title": "How to Listen to Jazz",
+    "authors": [
+     "Ted Gioia"
+    ],
+    "publisher": "Basic Books",
+    "publishedDate": "2016-05-17",
+    "description": "An Economist Best Book of the Year \"A radiantly accomplished writer . . . Gioia conveys his passion for the music with vivid description and shrewd judgements.\"-Wall Street Journal In How to Listen to Jazz, award-winning music scholar Ted Gioia presents a lively introduction to the art of listening to jazz. He tells us what to listen for in a performance and includes a guide to today's leading jazz musicians. From Louis Armstrong's innovative sounds to the exotic compositions of Duke Ellington, Gioia covers everything from the music's history to the building blocks of improvisation. A true love letter to jazz by a foremost expert, How to Listen to Jazz is a must-read for anyone who's ever wanted to understand America's greatest contribution to music. \"Gioia could not have done a better job. Through him, jazz might even find new devotees.\"-Economist \"How to Listen to Jazz is a packed and useful introduction to the medium. . . . You feel you are in good hands.\"-Weekly Standard",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780465097777"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0465097774"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.8.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PjVVCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PjVVCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PjVVCwAAQBAJ&printsec=frontcover&dq=Jazz&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PjVVCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PjVVCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PjVVCwAAQBAJ&rdid=book-PjVVCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/How_to_Listen_to_Jazz-sample-epub.acsm?id=PjVVCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PjVVCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Mr. Gioia could not have done a better job. Through him, jazz might even find new devotees.&quot; --The Economist In How to Listen to Jazz, award-winning music scholar Ted Gioia presents a lively introduction to the art of listening to jazz."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_J9HAAAAMAAJ",
+   "etag": "oq2vXsf7f8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_J9HAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Jazz and Ragtime Records (1897-1942): L-Z, index",
+    "authors": [
+     "Brian Rust"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015056677589"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1971,
+    "printType": "BOOK",
+    "categories": [
+     "Jazz"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_J9HAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_J9HAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=_J9HAAAAMAAJ&printsec=frontcover&dq=Jazz&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_J9HAAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_J9HAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=_J9HAAAAMAAJ&rdid=book-_J9HAAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_J9HAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

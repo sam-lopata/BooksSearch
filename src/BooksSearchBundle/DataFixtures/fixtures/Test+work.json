@@ -1,0 +1,870 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2262,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nZI0FH-7wewC",
+   "etag": "Je+4tVKeowM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nZI0FH-7wewC",
+   "volumeInfo": {
+    "title": "Mineral Processing Design",
+    "authors": [
+     "Baki Yarar",
+     "Z.M. Dogan"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1987-02-28",
+    "description": "This volume is based on the proceedings of the \"NATO Advanced study Institute on Mineral Processing Design\" held in Bursa-Turkey on August 24-31, 1984. The institute was organized by Professor B. Yarar of the Colorado School of Mines, Golden, Colorado, 80401, USA, Professor G. Ozbayoghu and Professor Z. M. Dogan of METU-Ankara, Turkey, who was the director. The purpose of the institute was to provide an international forum on the subject and update the information available. Participants were from Turkey, England, Greece, Spain, Portugal, Belgium, Canada, and the USA. Besides authors contributing to this volume, presentations were also made by Drs. Yarar, Raghavan, Schurger, and Mr. Kelland. Many assistants and colleagues helped. They are gratefully acknowledged. Acknowledgment is also owed to Drs. Ek, de Kuyper, and Tolun. Dr. Gfilhan Ozbayoglu, and Mr. S. Ozbayoglu were particularly helpful in the overall organization and hosting of many international guests. We owe them special thanks. NATO, Scientific Affairs Division, is gratefully acknowledged for the grant which made this activity possible. Z. M. Dogan B. Yarar 2 APPLIED MINERALOGY IN ORE DRESSING William Petruk CANMET, 555 Booth Street, Ottawa, Ontario, KIA OGI ABSTRACT Mineralogy applied to ore dressing is a reliable guide for designing and operating an efficient concentrator. A procedure for conductiqg mineralogical studies in conjunction with ore dressing was, therefore, developed. The procedure includes characterizing the ore and analysing the mill products.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "902473472X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789024734726"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 362,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nZI0FH-7wewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nZI0FH-7wewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nZI0FH-7wewC&pg=PA169&dq=Test+work&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nZI0FH-7wewC&dq=Test+work&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mineral_Processing_Design.html?hl=&id=nZI0FH-7wewC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mineral_Processing_Design-sample-epub.acsm?id=nZI0FH-7wewC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Mineral_Processing_Design-sample-pdf.acsm?id=nZI0FH-7wewC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nZI0FH-7wewC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003etestwork\u003c/b\u003e rather than just a regressive stage of attempting to determine the cause \u003cbr\u003e\nof unsuccessful \u003cb\u003etestwork\u003c/b\u003e. Neither should this form of study be limited to \u003cbr\u003e\nexploration ore samples because very useful information can be gained by \u003cbr\u003e\nexamining the&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wvbgDAAAQBAJ",
+   "etag": "YQBCZUHl++4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wvbgDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Social Work ASWB Masters Practice Test",
+    "subtitle": "170 Questions to Identify Knowledge Gaps",
+    "authors": [
+     "Dawn Apgar, PhD, LSW, ACSW"
+    ],
+    "publisher": "Springer Publishing Company",
+    "publishedDate": "2016-12-02",
+    "description": "This full-length practice test with answers and rationales, created by a prominent educator of social work licensure candidates, is a key resource for social workers preparing for the ASWB® Masters exam. It can be used either on its own or in conjunction with the author’s Social Work ASWB® Masters Exam Guide: A Comprehensive Study Guide for Success. The 170 questions contained in this resource mirror the test in length, structure, and content. These are unique questions, distinct from those in the author’s complementary study guide, that serve as a valuable diagnostic tool to improve exam success. With in-depth rationales and specific strategies for correctly answering each question, this resource helps social workers identify gaps in knowledge and errors in problem solving. Knowledge domains are grouped together so test-takers can identify the specific content area and competency being tested—a valuable asset for increasing understanding. In addition, the Knowledge, Skills, and Abilities statements (KSAs) are identified for each question, so test-takers can easily locate relevant source materials for further study. Tips for reading the questions, avoiding common pitfalls, and other valuable test-taking strategies, including an assessment of learning styles, add to this book’s value as a highly useful resource and diagnostic tool. Key Features: Written by a renowned educator of social work licensure candidates Mirrors the actual ASWB® Masters examIncludes a full practice test with 170 questions Provides answers with full rationales and specific test-taking strategies for all questions ASWB is a registered service mark of the Association of Social Work Boards, which neither sponsors nor endorses this product.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826134394"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0826134394"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wvbgDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wvbgDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wvbgDAAAQBAJ&pg=PR1&dq=Test+work&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wvbgDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wvbgDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wvbgDAAAQBAJ&rdid=book-wvbgDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.172E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Work_ASWB_Masters_Practice_Test-sample-epub.acsm?id=wvbgDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Work_ASWB_Masters_Practice_Test-sample-pdf.acsm?id=wvbgDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wvbgDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bachelors \u003cb\u003eTest\u003c/b\u003e focuses on knowledge acquired while obtaining a Baccalaureate \u003cbr\u003e\ndegree in Social \u003cb\u003eWork\u003c/b\u003e (BSW). A small number of jurisdictions license social \u003cbr\u003e\nworkers at an Associate level and require the ASWB® Associate examination."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EvplDAAAQBAJ",
+   "etag": "J3x0rnBFCps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EvplDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Social Work ASWB Bachelors Practice Test",
+    "subtitle": "170 Questions to Identify Knowledge Gaps",
+    "authors": [
+     "Dawn Apgar, PhD, LSW, ACSW"
+    ],
+    "publisher": "Springer Publishing Company",
+    "publishedDate": "2016-08-09",
+    "description": "This full-length practice test with answers and rationales, created by a prominent educator of social work licensure candidates, is a key resource for social workers preparing for the ASWB® Bachelors or Associate exams. It can be used either on its own or in conjunction with the author’s Social Work ASWB® Bachelors Exam Guide: A Comprehensive Study Guide for Success. The 170 questions contained in this resource mirror the test in length, structure, and content. These are unique questions, distinct from those in the author’s complementary study guide, that serve as a valuable diagnostic tool to improve exam success. With in-depth rationales and specific strategies for correctly answering each question, this resource helps social workers identify gaps in knowledge and errors in problem solving. Knowledge domains are grouped together so test-takers can identify the specific content area and competency being tested—a valuable asset for increasing understanding. In addition, the Knowledge, Skills, and Abilities statements (KSAs) are identified for each question, so test-takers can easily locate relevant source materials for further study. Tips for reading the questions, avoiding common pitfalls, and other valuable test-taking strategies, including an assessment of learning styles, add to this book’s value as a highly useful resource and diagnostic tool. Key Features: Written by a renowned educator of social work licensure candidates Mirrors the actual ASWB® Bachelors and Associate exams Includes a full practice test with 170 questions Provides answers with full rationales and specific test-taking strategies for all questions",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826134332"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0826134335"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EvplDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EvplDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EvplDAAAQBAJ&pg=PR1&dq=Test+work&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EvplDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EvplDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EvplDAAAQBAJ&rdid=book-EvplDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.172E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Work_ASWB_Bachelors_Practice_Test-sample-epub.acsm?id=EvplDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Work_ASWB_Bachelors_Practice_Test-sample-pdf.acsm?id=EvplDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EvplDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bachelors The Social \u003cb\u003eWork\u003c/b\u003e ASWB® Bachelors Exam Guide: A Comprehensive \u003cbr\u003e\nGuide for Success \u003cb\u003eTest\u003c/b\u003e focuses on knowledge acquired while obtaining a \u003cbr\u003e\nBaccalaureate degree in Social \u003cb\u003eWork\u003c/b\u003e (BSW). A small number of jurisdictions \u003cbr\u003e\nlicense&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XoYxDwAAQBAJ",
+   "etag": "Uq1FFE3TmOI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XoYxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Social Work ASWB Masters Practice Test, Second Edition",
+    "subtitle": "170 Questions to Identify Knowledge Gaps",
+    "authors": [
+     "Dawn Apgar, PhD, LSW, ACSW"
+    ],
+    "publisher": "Springer Publishing Company",
+    "publishedDate": "2017-11-30",
+    "description": "Written by a highly-respected social work educator rather than an unknown at a test preparation company, this full-length practice test with answers and rationales covers all the content areas of the updated 2018 ASWB® Masters exam. A valuable diagnostic tool to improve test success, the 170 questions mirror the exam in length, structure, and content. Reviewers applaud the book’s test-taking strategies for each question which are based on the author’s extensive knowledge of the exam. In-depth rationales for correctly answering each question help readers identify gaps in knowledge and errors in problem solving. Additional test taking tips make this book an invaluable resource for those who want to pass the ASWB® Masters Exam on the first attempt! Highlights include: Updated to reflect ASWB’s revised 2018 test blueprint used for test construction. Content available via an app in addition to the print version so test takers can study using multiple mediums. Written by a renowned social work educator who has helped thousands of test takers pass the exam through her invaluable workshops. A full practice test with 170 questions that mirrors the actual ASWB® Masters Exam in length, structure, and content, with detailed explanations of the correct answers. Test-taking strategies for each question along with the detailed rationale for the correct answer help readers identify gaps in knowledge and errors in problem solving. Questions are distinct from those in the author’s Social Work ASWB® Masters Exam Guide, 2e. The Social Work ASWB® Practice Test, 2e can be used on its own or in conjunction with the Social Work ASWB® Masters Exam Guide, 2e. Students applaud the invaluable tips for how to read and answer each question and assess one’s learning style which provide a powerful diagnostic tool and help foster exam confidence. The Knowledge, Skills, and Abilities statements (KSAs) are identified for each question so test-takers can easily locate relevant source materials for further study. An evaluation of results helps readers identify the content areas and competencies that need further study.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826147233"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0826147232"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XoYxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XoYxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XoYxDwAAQBAJ&pg=PR12&dq=Test+work&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XoYxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XoYxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 39.49,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XoYxDwAAQBAJ&rdid=book-XoYxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.949E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Work_ASWB_Masters_Practice_Test_S-sample-epub.acsm?id=XoYxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Social_Work_ASWB_Masters_Practice_Test_S-sample-pdf.acsm?id=XoYxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XoYxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Second, practice \u003cb\u003etests\u003c/b\u003e rarely explicitly identify the \u003cb\u003etest\u003c/b\u003e-taking strategies that must \u003cbr\u003e\nbe used in order to select the correct ... practice \u003cb\u003etest\u003c/b\u003e to identify: □ Question \u003cbr\u003e\nwording that is important to selecting correct answers □ Key social \u003cb\u003ework\u003c/b\u003e \u003cbr\u003e\nconcepts that&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "34qDSjpPie8C",
+   "etag": "1pt39K10D7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/34qDSjpPie8C",
+   "volumeInfo": {
+    "title": "Validation and Test of Central Concepts in Positive Work and Organizational Psychology",
+    "subtitle": "The Second Report from the Nordic Project Positive Factors at Work",
+    "authors": [
+     "Marit Christensen"
+    ],
+    "publisher": "Nordic Council of Ministers",
+    "publishedDate": "2009-09-30",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789289319195"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9289319194"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=34qDSjpPie8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=34qDSjpPie8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=34qDSjpPie8C&pg=PA65&dq=Test+work&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=34qDSjpPie8C&dq=Test+work&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Validation_and_Test_of_Central_Concepts.html?hl=&id=34qDSjpPie8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Validation_and_Test_of_Central_Concepts-sample-pdf.acsm?id=34qDSjpPie8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=34qDSjpPie8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Second Report from the Nordic Project Positive Factors at \u003cb\u003eWork\u003c/b\u003e Nordic \u003cbr\u003e\nCouncil of Ministers Marit Christensen. 3. \u003cb\u003eTest\u003c/b\u003e. of. working. model. 3.1 Do \u003cbr\u003e\nengaged employees perform better at \u003cb\u003ework\u003c/b\u003e? The motivating power of job \u003cbr\u003e\nresources and&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GvvNAwAAQBAJ",
+   "etag": "igowmh5XFDQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GvvNAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Test Prep Level 5: Too Young to Work Comprehension and Critical Thinking",
+    "authors": [
+     "Jamey Acosta"
+    ],
+    "publisher": "Teacher Created Materials",
+    "publishedDate": "2014-06-01",
+    "description": "Fifth graders read a high-interest nonfiction article, strengthen comprehension skills by responding to follow-up questions, study a primary source document, and demonstrate critical-thinking skills through document-based questions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781480779648"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1480779644"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 6,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GvvNAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GvvNAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GvvNAwAAQBAJ&pg=PP1&dq=Test+work&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GvvNAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GvvNAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.29,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.29,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GvvNAwAAQBAJ&rdid=book-GvvNAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1290000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1290000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Test_Prep_Level_5_Too_Young_to_Work_Comp-sample-pdf.acsm?id=GvvNAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GvvNAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "He is still working in the fields. Every April, his familyjourneys north to begin \u003cbr\u003e\nmonths of grueling farmwork. Together, Valdemar and his parents earn just $500 \u003cbr\u003e\na week for their hard \u003cb\u003ework\u003c/b\u003e. On average, farmworkers in the United States earn \u003cbr\u003e\nless&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P3ELAwAAQBAJ",
+   "etag": "AiIZ3sOFn4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P3ELAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Test Prep Level 3: Animals at Work Comprehension and Critical Thinking",
+    "authors": [
+     "Lisa Greathouse"
+    ],
+    "publisher": "Teacher Created Materials",
+    "publishedDate": "2014-03-01",
+    "description": "Students read a high-interest nonfiction article, strengthen comprehension skills by responding to follow-up questions, study a primary source document, and demonstrate critical-thinking skills through document-based questions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781480775022"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1480775029"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 4,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=P3ELAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=P3ELAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=P3ELAwAAQBAJ&pg=PP1&dq=Test+work&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=P3ELAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-P3ELAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.29,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.29,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=P3ELAwAAQBAJ&rdid=book-P3ELAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1290000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1290000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Test_Prep_Level_3_Animals_at_Work_Compre-sample-pdf.acsm?id=P3ELAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=P3ELAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eWork\u003c/b\u003e. A special visitor trotted into Michael Foote&#39;s room last week at the Akron \u003cbr\u003e\nChildren&#39;s Hospital in Ohio. Petie, a pony, spent several minutes with the 11-year\u003cbr\u003e\n-old. “When Petie came in, I wasn&#39;t feeling great,” Michael says. “But I got to pet&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hnALAwAAQBAJ",
+   "etag": "3O6TpTE+JvY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hnALAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Test Prep Level 3: Too Young to Work Comprehension and Critical Thinking",
+    "authors": [
+     "Lisa Greathouse"
+    ],
+    "publisher": "Teacher Created Materials",
+    "publishedDate": "2014-03-01",
+    "description": "Students read a high-interest nonfiction article, strengthen comprehension skills by responding to follow-up questions, study a primary source document, and demonstrate critical-thinking skills through document-based questions.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781480775077"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "148077507X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 4,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hnALAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hnALAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hnALAwAAQBAJ&pg=PP1&dq=Test+work&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hnALAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hnALAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.29,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 1.29,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hnALAwAAQBAJ&rdid=book-hnALAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1290000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1290000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Test_Prep_Level_3_Too_Young_to_Work_Comp-sample-pdf.acsm?id=hnALAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hnALAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eWork\u003c/b\u003e. Valdemar Balderas was 12 when he began working in the fields of \u003cbr\u003e\nMinnesota and North Dakota. He and his parents worked long days in the heat. \u003cbr\u003e\nThey picked weeds and cleared rocks. They rarely got a day off. Valdemar, now \u003cbr\u003e\n14, lives&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w1J-xibRTVoC",
+   "etag": "8qwpYIcYmsg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w1J-xibRTVoC",
+   "volumeInfo": {
+    "title": "Review of Risk Assessment Work Plan for the Medical Countermeasures Test and Evaluation Facility at Fort Detrick",
+    "subtitle": "A Letter Report",
+    "authors": [
+     "Board on Life Sciences",
+     "Division on Earth and Life Studies"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "2011-12-31",
+    "description": "At the U.S. Army's request the National Research Council (NRC) established the Committee to Review Risk Assessment Approaches for the Medical Countermeasures Test and Evaluation (MCMT&E) facility at Fort Detrick, in Frederick, Maryland. The committee was charged with reviewing a proposed approach to preparing a risk assessment for the new biocontainment laboratory at the base. Review of Risk Assessment Work Plan for the Medical Countermeasures Test and Evaluation Facility is the second letter report on the Army contractor's proposed work plan for conducting the risk assessment.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780309220781"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0309220785"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 43,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w1J-xibRTVoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w1J-xibRTVoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=w1J-xibRTVoC&pg=PA15&dq=Test+work&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=w1J-xibRTVoC&dq=Test+work&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Review_of_Risk_Assessment_Work_Plan_for.html?hl=&id=w1J-xibRTVoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w1J-xibRTVoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "His \u003cb\u003ework\u003c/b\u003e with the U.S. Environmental Protection Agency has involved applying \u003cbr\u003e\nthese transmission models to assess the public-health risks from exposure to \u003cbr\u003e\nmicrobial agents in drinking waters, recreational waters, and biosolids. Dr. \u003cbr\u003e\nEisenberg&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LnbZygyqdsEC",
+   "etag": "k7zlitdljUY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LnbZygyqdsEC",
+   "volumeInfo": {
+    "title": "Drug Testing At Work",
+    "subtitle": "A Guide for Employers and Employees",
+    "authors": [
+     "Potter & Orfali"
+    ],
+    "publisher": "Ronin Publishing",
+    "publishedDate": "1998-10-16",
+    "description": "Describes the background of drug abuse and drug testing in the workplace, and suggests how to set up a testing program and how to pass the tests",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1579510078"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579510077"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LnbZygyqdsEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LnbZygyqdsEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=LnbZygyqdsEC&pg=PA79&dq=Test+work&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=LnbZygyqdsEC&dq=Test+work&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Drug_Testing_At_Work.html?hl=&id=LnbZygyqdsEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Drug_Testing_At_Work-sample-epub.acsm?id=LnbZygyqdsEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Drug_Testing_At_Work-sample-pdf.acsm?id=LnbZygyqdsEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LnbZygyqdsEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Courts have ruled that drug \u003cb\u003etesting\u003c/b\u003e is a search — a search of one&#39;s urine or \u003cbr\u003e\nblood. In the process of such a search lawful prescription drug use can be \u003cbr\u003e\nrevealed. The person tested is asked to disclose his or her drug use. And, as in \u003cbr\u003e\nthe case&nbsp;..."
+   }
+  }
+ ]
+}

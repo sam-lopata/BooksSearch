@@ -1,0 +1,796 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 897,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "j8CwoQEACAAJ",
+   "etag": "GMAVI9jos5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j8CwoQEACAAJ",
+   "volumeInfo": {
+    "title": "A Year with Symfony",
+    "subtitle": "Writing Healthy, Reusable Symfony2 Code",
+    "authors": [
+     "Matthias Noback"
+    ],
+    "publishedDate": "2013-09-04",
+    "description": "I've written A Year With Symfony for you, a developer who will work with Symfony2 for more than a month (and probably more than a year). You may have started reading your way through the official documentation (\"The Book\"), the cookbook, some blogs, or an online tutorial. You know now how to create a Symfony2 application, with routing, controllers, entities or documents, Twig templates and maybe some unit tests. But after these basic steps, some concerns will raise about... The reusability of your code - How should you structure your code to make it reusable in a future project? Or even in the same project, but with a different view or in a console command? The quality of the internal API you have knowingly or unknowingly created - What can you do to ensure that your team members will understand your code, and will use it in the way it was meant to be used? How can you make your code flexible enough to be used in situations resembling the one you wrote it for? The level of security of your application - Symfony2 and Doctrine seem to automatically make you invulnerable for well-known attacks on your web application, like XSS, CSRF and SQL injection attacks. But can you completely rely on the framework? And what steps should you take to fix some of the remaining issues? The inner workings of Symfony2 - When you take one step further from creating just controllers and views, you will soon need to know more about the HttpKernel which is the heart of a Symfony2 application. How does it know what controller should be used, and which template? And how can you override any decision that's made while handling a request?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9082120119"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789082120110"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j8CwoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j8CwoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=j8CwoQEACAAJ&dq=Symfony&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=j8CwoQEACAAJ&dq=Symfony&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Year_with_Symfony.html?hl=&id=j8CwoQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j8CwoQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "You may have started reading your way through the official documentation (&quot;The Book&quot;), the cookbook, some blogs, or an online tutorial."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2eS5oTEYk8QC",
+   "etag": "vTuShFyBoys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2eS5oTEYk8QC",
+   "volumeInfo": {
+    "title": "The Definitive Guide to symfony",
+    "authors": [
+     "Francois Zaninotto",
+     "Fabien Potencier"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2007-04-01",
+    "description": "This book, authored by project and documentation leads Fabien Potencier and François Zaninotto, serves as a complete guide to all aspects of Symfony. Readers are guided through fundamental concepts such as installation, configuration, and security, followed by thorough discussion of advanced concepts such as scaffolding, routing, caching, and internationalization. Bundled with numerous tools for helping document, debug, and test your applications, and developed in a manner encouraging agile development principles, Symfony is sparking the imagination of thousands of developers around the globe.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430203797"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143020379X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 425,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2eS5oTEYk8QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2eS5oTEYk8QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2eS5oTEYk8QC&pg=PA346&dq=Symfony&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2eS5oTEYk8QC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2eS5oTEYk8QC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2eS5oTEYk8QC&rdid=book-2eS5oTEYk8QC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.119E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Definitive_Guide_to_symfony-sample-epub.acsm?id=2eS5oTEYk8QC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Definitive_Guide_to_symfony-sample-pdf.acsm?id=2eS5oTEYk8QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2eS5oTEYk8QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this case, you will find the PHP logs under the web server log directory. \u003cbr\u003e\n\u003cb\u003eSymfony\u003c/b\u003e Logs In addition to the standard PHP logs, \u003cb\u003esymfony\u003c/b\u003e can log a lot of \u003cbr\u003e\ncustom events. You can find all the \u003cb\u003esymfony\u003c/b\u003e logs under the myproject/log/ \u003cbr\u003e\ndirectory. There is&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r9zJDAAAQBAJ",
+   "etag": "jykIrqrn2Ok",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r9zJDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Mastering Symfony",
+    "authors": [
+     "Sohail Salehi"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2016-04-26",
+    "description": "Orchestrate the designing, development, testing, and deployment of web applications with Symfony About This Book Create a robust and reliable Symfony development pipeline using Amazon's cloud platform Cut development and maintenance costs by defining crystal clear features and possible scenarios for each feature before implementation Follow detailed examples provided in each chapter to create a task management application Who This Book Is For If you are a PHP developer with some experience in Symfony and are looking to master the framework and use it to its full potential, then this book is for you. Though experience with PHP, object-oriented techniques, and Symfony basics is assumed, this book will give you a crash course on the basics and then proceed to more advanced topics. What You Will Learn Install and configure Symfony and required third-party bundles to develop a task management application Set up a continuous integration server to orchestrate automatic builds every time you add a new feature to your project Reduce maintenance costs dramatically using Behaviour Driven Development (BDD) Create a slick user interface using the Bootstrap framework Design robust business logic using Doctrine Build a comprehensive dashboard and secure your project using the Sonata project Improve performance using Redis, Memcache, and Varnish Create customized Symfony commands and add them to your console In Detail In this book, you will learn some lesser known aspects of development with Symfony, and you will see how to use Symfony as a framework to create reliable and effective applications. You might have developed some impressive PHP libraries in other projects, but what is the point when your library is tied to one particular project? With Symfony, you can turn your code into a service and reuse it in other projects. This book starts with Symfony concepts such as bundles, routing, twig, doctrine, and more, taking you through the request/response life cycle. You will then proceed to set up development, test, and deployment environments in AWS. Then you will create reliable projects using Behat and Mink, and design business logic, cover authentication, and authorization steps in a security checking process. You will be walked through concepts such as DependencyInjection, service containers, and services, and go through steps to create customized commands for Symfony's console. Finally, the book covers performance optimization and the use of Varnish and Memcached in our project, and you are treated with the creation of database agnostic bundles and best practices. Style and approach A step-by-step guide to mastering Symfony while developing a task management application. Each chapter comes with detailed examples.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781784394264"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1784394262"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 290,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r9zJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r9zJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=r9zJDAAAQBAJ&printsec=frontcover&dq=Symfony&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r9zJDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r9zJDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r9zJDAAAQBAJ&rdid=book-r9zJDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r9zJDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Orchestrate the designing, development, testing, and deployment of web applications with Symfony About This Book Create a robust and reliable Symfony development pipeline using Amazon&#39;s cloud platform Cut development and maintenance costs ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "87TRWpU1ND0C",
+   "etag": "92cX7ze4aWc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/87TRWpU1ND0C",
+   "volumeInfo": {
+    "title": "Symfony 1.2",
+    "subtitle": "Mieux développer en PHP avec Symfony et Doctrine",
+    "authors": [
+     "Fabien Potencier",
+     "Hugo Hamon"
+    ],
+    "publisher": "Editions Eyrolles",
+    "publishedDate": "2011-07-07",
+    "description": "Reconnu dans le monde pour sa puissance et son élégance, Symfony est issu de plus de dix ans de savoir-faire. Le framework open source de Sensio fédère une très forte communauté de développeurs PHP professionnels. Il leur offre un ensemble d'outils et un environnement MVC pour créer des applications web robustes, maintenables et évolutives. Au fil d'une démarche rigoureuse et d'un exemple concret d'application web 2.0, ce cahier décrit le bon usage des outils Symfony mis à la disposition du développeur : de l'architecture MVC et autres design patterns à l'abstraction de base de données et au mapping objet-relationnel avec Doctrine, en passant par les tests unitaires et fonctionnels, la gestion des URL, des formulaires ou du cache, l'internationalisation ou encore la génération des interfaces d'administration...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782212852578"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2212852576"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 486,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=87TRWpU1ND0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=87TRWpU1ND0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=87TRWpU1ND0C&dq=Symfony&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=87TRWpU1ND0C&dq=Symfony&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Symfony_1_2.html?hl=&id=87TRWpU1ND0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=87TRWpU1ND0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reconnu dans le monde pour sa puissance et son élégance, Symfony est issu de plus de dix ans de savoir-faire."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gTEl2mWGNtAC",
+   "etag": "uTDKPUrPAE4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gTEl2mWGNtAC",
+   "volumeInfo": {
+    "title": "Building PHP Applications with Symfony, CakePHP, and Zend Framework",
+    "authors": [
+     "Bartosz Porebski",
+     "Karol Przystalski",
+     "Leszek Nowak"
+    ],
+    "publisher": "John Wiley and Sons",
+    "publishedDate": "2011-02-17",
+    "description": "The first detailed, unbiased comparison of the three leading PHP frameworks Web developers have been eager for an impartial comparison of leading PHP frameworks so they can make educated decisions about the most effective tool for their needs. This guide uses Symfony, CakePHP, and Zend Framework to solve key problems, providing source code examples and comparisons for each. It explains the approach and reviews the similarities and differences in the three frameworks, providing reliable information on which to base your decisions. Symfony, CakePHP, and Zend Framework are considered the leading PHP frameworks; developers need an unbiased comparison to choose which one works best for their individual situations This guide uses each framework to solve the same problems, illustrating the solutions with source code examples and working applications Covers wide range of topics, from installation and configuration to most advanced features like AJAX, web services and automated testing. Includes an appendix of new PHP frameworks, including CodeIgniter, Lithium, and Agavi Bestselling PHP author Elizabeth Naramore serves as technical editor Comparison of PHP Web Frameworks provides the impartial, side-by-side comparison that developers have been looking for.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118067924"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118067925"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gTEl2mWGNtAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gTEl2mWGNtAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gTEl2mWGNtAC&pg=PA38&dq=Symfony&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gTEl2mWGNtAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gTEl2mWGNtAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 23.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gTEl2mWGNtAC&rdid=book-gTEl2mWGNtAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Building_PHP_Applications_with_Symfony_C-sample-epub.acsm?id=gTEl2mWGNtAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Building_PHP_Applications_with_Symfony_C-sample-pdf.acsm?id=gTEl2mWGNtAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gTEl2mWGNtAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Installation instructions are for \u003cb\u003eSymfony\u003c/b\u003e 1.4.8. By the time you read this book, \u003cbr\u003e\n\u003cb\u003eSymfony\u003c/b\u003e 2.0 should be available to download with PEAR. At the time of writing, \u003cbr\u003e\nthe 2.0 beta is available for preview as a sandbox application and that&#39;s how we&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4OgmAgAAQBAJ",
+   "etag": "d6IFL6HcG2o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4OgmAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Practical symfony - Doctrine edition",
+    "authors": [
+     "Fabien Potencier"
+    ],
+    "publisher": "Lulu.com",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9782918390015"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "2918390011"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4OgmAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4OgmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4OgmAgAAQBAJ&pg=PA363&dq=Symfony&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4OgmAgAAQBAJ&dq=Symfony&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Practical_symfony_Doctrine_edition.html?hl=&id=4OgmAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4OgmAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "One of the great strength of \u003cb\u003esymfony\u003c/b\u003e is that a project is self-contained. All the files \u003cbr\u003e\nneeded for the project to work are under the main root project directory. And you \u003cbr\u003e\ncan move around the project in another directory without changing anything in&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r9zJDAAAQBAJ",
+   "etag": "RqrNIsW9iaQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r9zJDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Mastering Symfony",
+    "authors": [
+     "Sohail Salehi"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2016-04-26",
+    "description": "Orchestrate the designing, development, testing, and deployment of web applications with Symfony About This Book Create a robust and reliable Symfony development pipeline using Amazon's cloud platform Cut development and maintenance costs by defining crystal clear features and possible scenarios for each feature before implementation Follow detailed examples provided in each chapter to create a task management application Who This Book Is For If you are a PHP developer with some experience in Symfony and are looking to master the framework and use it to its full potential, then this book is for you. Though experience with PHP, object-oriented techniques, and Symfony basics is assumed, this book will give you a crash course on the basics and then proceed to more advanced topics. What You Will Learn Install and configure Symfony and required third-party bundles to develop a task management application Set up a continuous integration server to orchestrate automatic builds every time you add a new feature to your project Reduce maintenance costs dramatically using Behaviour Driven Development (BDD) Create a slick user interface using the Bootstrap framework Design robust business logic using Doctrine Build a comprehensive dashboard and secure your project using the Sonata project Improve performance using Redis, Memcache, and Varnish Create customized Symfony commands and add them to your console In Detail In this book, you will learn some lesser known aspects of development with Symfony, and you will see how to use Symfony as a framework to create reliable and effective applications. You might have developed some impressive PHP libraries in other projects, but what is the point when your library is tied to one particular project? With Symfony, you can turn your code into a service and reuse it in other projects. This book starts with Symfony concepts such as bundles, routing, twig, doctrine, and more, taking you through the request/response life cycle. You will then proceed to set up development, test, and deployment environments in AWS. Then you will create reliable projects using Behat and Mink, and design business logic, cover authentication, and authorization steps in a security checking process. You will be walked through concepts such as DependencyInjection, service containers, and services, and go through steps to create customized commands for Symfony's console. Finally, the book covers performance optimization and the use of Varnish and Memcached in our project, and you are treated with the creation of database agnostic bundles and best practices. Style and approach A step-by-step guide to mastering Symfony while developing a task management application. Each chapter comes with detailed examples.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781784394264"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1784394262"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 290,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r9zJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r9zJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=r9zJDAAAQBAJ&pg=PA2&dq=Symfony&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r9zJDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r9zJDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r9zJDAAAQBAJ&rdid=book-r9zJDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r9zJDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Having experienced many frameworks already, the solution architects at NZ \u003cbr\u003e\nHerald chose \u003cb\u003eSymfony\u003c/b\u003e as their framework. They realized that those colorful \u003cbr\u003e\ngraphs and pretty pictures that compare benchmarking results for various \u003cbr\u003e\nframeworks are&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bKmeKWlCFNcC",
+   "etag": "6rpPbR/GQ1g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bKmeKWlCFNcC",
+   "volumeInfo": {
+    "title": "Symfony 1.3 Web Application Development",
+    "authors": [
+     "Tim Bowler",
+     "Wojciech Bancer"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2009-09-21",
+    "description": "Design, develop, and deploy feature-rich, high-performance PHP web applications using the Symfony framework.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847194572"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1847194575"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bKmeKWlCFNcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bKmeKWlCFNcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bKmeKWlCFNcC&pg=PT37&dq=Symfony&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bKmeKWlCFNcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bKmeKWlCFNcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.59,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bKmeKWlCFNcC&rdid=book-bKmeKWlCFNcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.459E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bKmeKWlCFNcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "There arethreewaysinwhich youcaninstallandsetup \u003cb\u003eSymfony\u003c/b\u003e on yourlocalsystem: \u003cbr\u003e\nUsing the sandbox Checking outof subversion Installing via PEAR Version 1.3 \u003cbr\u003e\nwas not released atthetime of the writing this book, so I cannot provide you with&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a0EqN_zd6tUC",
+   "etag": "ZI+qT4IH50c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a0EqN_zd6tUC",
+   "volumeInfo": {
+    "title": "Instant PhpStorm Starter",
+    "authors": [
+     "Włodzimierz Gajda"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2013-01-01",
+    "description": "Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks.This is a Starter book with plenty of coded examples and pictorial illustrations.If you are a developer who knows the basics of PHP and want to learn the PHPStorm and Symfony 2 frameworks, this book is for you. The book concentrates on using the IDE and not on the PHP language.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781849693950"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1849693951"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 86,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a0EqN_zd6tUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a0EqN_zd6tUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=a0EqN_zd6tUC&pg=PT46&dq=Symfony&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=a0EqN_zd6tUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-a0EqN_zd6tUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=a0EqN_zd6tUC&rdid=book-a0EqN_zd6tUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a0EqN_zd6tUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "fisisylnfony-Z-l-hello-world - [C:\\htdocs\\phpstorm-ebook-examples\\\u003cb\u003esymfony\u003c/b\u003e-2-1-\u003cbr\u003e\nhello—world] - JetBrains PhpStorm 5.0.4 file Edit yiew tiavigate (_Zode Refactor \u003cbr\u003e\nRgn Iools &#39; VC§ \\Mndow Ijelp _ _ §e|s&gt;&lt;s|x [a las- ei|p_i&gt;»inaa|.a|e&nbsp;..."
+   }
+  }
+ ]
+}

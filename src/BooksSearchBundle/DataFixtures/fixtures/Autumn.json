@@ -1,0 +1,821 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 3906,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BH41DAAAQBAJ",
+   "etag": "ltKw2ApTXls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BH41DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Autumn",
+    "subtitle": "A Novel",
+    "authors": [
+     "Ali Smith"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2017-02-07",
+    "description": "***MAN BOOKER PRIZE FINALIST*** ***Long-listed for the Gordon Burn Prize*** Autumn. Season of mists and mellow fruitfulness. That's what it felt like for Keats in 1819. How about Autumn 2016? Daniel is a century old. Elisabeth, born in 1984, has her eye on the future. The United Kingdom is in pieces, divided by a historic, once-in-a-generation summer. Love is won, love is lost. Hope is hand-in-hand with hopelessness. The seasons roll round, as ever. Ali Smith's new novel is a meditation on a world growing ever more bordered and exclusive, on what richness and worth are, on what harvest means. It is the first installment of her Seasonal quartet—four stand-alone books, separate yet interconnected and cyclical (as the seasons are)—and it casts an eye over our own time. Who are we? What are we made of? Shakespearean jeu d’esprit, Keatsian melancholy, the sheer bright energy of 1960s pop art: the centuries cast their eyes over our own history making. Here’s where we’re living. Here’s time at its most contemporaneous and its most cyclic. From the imagination of the peerless Ali Smith comes a shape-shifting series, wide-ranging in time-scale and light-footed through histories, a story about aging and time and love and stories themselves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101870747"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101870745"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BH41DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BH41DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BH41DAAAQBAJ&printsec=frontcover&dq=Autumn&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BH41DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BH41DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BH41DAAAQBAJ&rdid=book-BH41DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Autumn-sample-epub.acsm?id=BH41DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BH41DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "***MAN BOOKER PRIZE FINALIST*** ***Long-listed for the Gordon Burn Prize*** Autumn. Season of mists and mellow fruitfulness. That&#39;s what it felt like for Keats in 1819. How about Autumn 2016? Daniel is a century old."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H_YBMQAACAAJ",
+   "etag": "HnS2Lu2hrJ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H_YBMQAACAAJ",
+   "volumeInfo": {
+    "title": "Autumn",
+    "authors": [
+     "Karl Ove Knausgaard"
+    ],
+    "publisher": "Harvill Secker",
+    "publishedDate": "2017-08-24",
+    "description": "I want to show you our world as it is now: the door, the floor, the water tap and the sink, the garden chair close to the wall beneath the kitchen window, the sun, the water, the trees. You will come to see it in your own way, you will experience things for yourself and live a life of your own, so of course it is primarily for my own sake that I am doing this: showing you the world, little one, makes my life worth living. Autumn begins with a letter Karl Ove Knausgaard writes to his unborn daughter. He adds one short piece per day, describing the material and natural world with the precision and mesmerising intensity that have become his trademark. This tender and deeply personal book is beautifully illustrated by Vanessa Baird, and is the first of four volumes marvelling at the vast, unknowable universe around us.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1910701637"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781910701638"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H_YBMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H_YBMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=H_YBMQAACAAJ&dq=Autumn&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=H_YBMQAACAAJ&dq=Autumn&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Autumn.html?hl=&id=H_YBMQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H_YBMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nothing is too small or too vast to escape his attention; this is a personal encyclopaedia on everything from chewing gum to the stars."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S05O80RiCBoC",
+   "etag": "fVaoxZXMIKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S05O80RiCBoC",
+   "volumeInfo": {
+    "title": "Autumn",
+    "subtitle": "A Spiritual Biography of the Season",
+    "authors": [
+     "Gary Schmidt",
+     "Susan M. Felch",
+     "Mary Azarian"
+    ],
+    "publisher": "SkyLight Paths Publishing",
+    "publishedDate": "2005-08-01",
+    "description": "Discover how this transitional season can reveal both the abundance and the limitations of our everyday lives. Autumn, with all its traditional images of colorful trees, frost-covered pumpkins, and piles of wood stored up against winter's cold, can be a season filled with anticipation. The harvest, the imminent onset of cold and snow, the resumption of old routines, and the beginning of the school year all require preparation and planning. If summer has been something of a pause, autumn helps us to see the passage of time more clearly. Autumn is a season of fruition and reaping, of thanksgiving and celebration of abundance and goodness of the earth. But it is also a season that starkly and realistically encourages us to see our own limitations. Warm and stirring pieces by E. B. White, Anne Lamott, P. D. James, Julian of Norwich, May Sarton, Kimiko Hahn, and many others in this beautiful book rejoice in autumn as a time of preparation and reflection, when the results of hard labor are ripe for harvest.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781594731181"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1594731187"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S05O80RiCBoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S05O80RiCBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=S05O80RiCBoC&printsec=frontcover&dq=Autumn&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=S05O80RiCBoC&dq=Autumn&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Autumn.html?hl=&id=S05O80RiCBoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=S05O80RiCBoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Warm and stirring pieces by E. B. White, Anne Lamott, P. D. James, Julian of Norwich, May Sarton, Kimiko Hahn, and many others in this beautiful book rejoice in autumn as a time of preparation and reflection, when the results of hard labor ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oKZVgzIZ0RYC",
+   "etag": "c58BgcxT6zA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oKZVgzIZ0RYC",
+   "volumeInfo": {
+    "title": "Something Wicked This Way Comes",
+    "authors": [
+     "Ray Bradbury"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2013-04-23",
+    "description": "Few American novels written this century have endured in th heart and mind as has this one-Ray Bradbury's incomparable masterwork of the dark fantastic. A carnival rolls in sometime after the midnight hour on a chill Midwestern October eve, ushering in Halloween a week before its time. A calliope's shrill siren song beckons to all with a seductive promise of dreams and youth regained. In this season of dying, Cooger & Dark's Pandemonium Shadow Show has come to Green Town, Illinois, to destroy every life touched by its strange and sinister mystery. And two inquisitive boys standing precariously on the brink of adulthood will soon discover the secret of the satanic raree-show's smoke, mazes, and mirrors, as they learn all too well the heavy cost of wishes -- and the stuff of nightmare.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780062242174"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0062242172"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 120,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oKZVgzIZ0RYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oKZVgzIZ0RYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oKZVgzIZ0RYC&printsec=frontcover&dq=Autumn&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oKZVgzIZ0RYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oKZVgzIZ0RYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oKZVgzIZ0RYC&rdid=book-oKZVgzIZ0RYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Something_Wicked_This_Way_Comes-sample-epub.acsm?id=oKZVgzIZ0RYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oKZVgzIZ0RYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Few American novels written this century have endured in th heart and mind as has this one-Ray Bradbury&#39;s incomparable masterwork of the dark fantastic."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b0Hvl7Q_BuIC",
+   "etag": "hfdZVDt3rYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b0Hvl7Q_BuIC",
+   "volumeInfo": {
+    "title": "Drums of Autumn",
+    "authors": [
+     "Diana Gabaldon"
+    ],
+    "publisher": "Dell",
+    "publishedDate": "2004-10-26",
+    "description": "BONUS: This edition contains an excerpt from Diana Gabaldon's The Fiery Cross. The magnificent saga continues.... It began in Scotland, at an ancient stone circle. There, a doorway, open to a select few, leads into the past—or the grave. Claire Randall survived the extraordinary passage, not once but twice. Her first trip swept her into the arms of Jamie Fraser, an eighteenth-century Scot whose love for her became legend—a tale of tragic passion that ended with her return to the present to bear his child. Her second journey, two decades later, brought them together again in frontier America. But Claire had left someone behind in the twentieth century. Their daughter, Brianna.... Now Brianna has made a disturbing discovery that sends her to the stone circle and a terrifying leap into the unknown. In search of her mother and the father she has never met, she is risking her own future to try to change history...and to save their lives. But as Brianna plunges into an uncharted wilderness, a heartbreaking encounter may strand her forever in the past...or root her in the place she should be, where her heart and soul belong....",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0440335175"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780440335177"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1120,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 58,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.23.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b0Hvl7Q_BuIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b0Hvl7Q_BuIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=b0Hvl7Q_BuIC&printsec=frontcover&dq=Autumn&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=b0Hvl7Q_BuIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-b0Hvl7Q_BuIC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=b0Hvl7Q_BuIC&rdid=book-b0Hvl7Q_BuIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Drums_of_Autumn-sample-epub.acsm?id=b0Hvl7Q_BuIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Drums_of_Autumn-sample-pdf.acsm?id=b0Hvl7Q_BuIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b0Hvl7Q_BuIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "BONUS: This edition contains an excerpt from Diana Gabaldon&#39;s The Fiery Cross."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-J0jczBfMD0C",
+   "etag": "+SdezSa/tmQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-J0jczBfMD0C",
+   "volumeInfo": {
+    "title": "A Is for Autumn",
+    "authors": [
+     "Robert Maass"
+    ],
+    "publisher": "Henry Holt and Company (BYR)",
+    "publishedDate": "2011-08-16",
+    "description": "Partake in the wonders of the fall through rich images of nature, family, and friends. Perfect for preschoolers, this alphabet book features the special and often magical moments of the season—complete with apples, leaves, frost and more. This picture book is best read on a tablet device.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429959841"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1429959843"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-J0jczBfMD0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-J0jczBfMD0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-J0jczBfMD0C&printsec=frontcover&dq=Autumn&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-J0jczBfMD0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--J0jczBfMD0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-J0jczBfMD0C&rdid=book--J0jczBfMD0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/A_Is_for_Autumn-sample-epub.acsm?id=-J0jczBfMD0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/A_Is_for_Autumn-sample-pdf.acsm?id=-J0jczBfMD0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-J0jczBfMD0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Perfect for preschoolers, this alphabet book features the special and often magical moments of the season—complete with apples, leaves, frost and more. This picture book is best read on a tablet device."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QR9_OnM8oS8C",
+   "etag": "yRh8XHzaneE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QR9_OnM8oS8C",
+   "volumeInfo": {
+    "title": "Autumn",
+    "subtitle": "A Season of Change",
+    "authors": [
+     "Peter J. Marchand"
+    ],
+    "publisher": "UPNE",
+    "publishedDate": "2000",
+    "description": "An expert on winter now turns his talents to autumn, a season of beauty and change. Author of the award-winning Life in the Cold, Peter J. Marchand examines the natural and biological phenomena of fall. With Marchand as your guide, fall becomes much more than trees turning, killing frosts, birds migrating, and invigorating crisp weather. Dig under the fallen leaves and heavy mists with him to discover a vibrant world. Readers learn the whys and wherefores of these events, but much much more, as Marchand answers questions most non-specialists have about how and why such changes and adaptations occur. Though autumn may appear to be primarily a transitional season, he shows how many remarkable and essential natural processes happen routinely only during this period. He describes such topics as timekeeping in plants and animals, food hoarding, seed dispersal, and animal mating behavior among the large mammals of the North. The book is organized by theme rather than by species, so that similar adaptation mechanisms of different species can be compared and contrasted. Marchand has a demonstrated skill in making scientific facts easily understood, while also conveying the beauty and wonder of what he describes. Also an accomplished photographer, his many beautiful full-page photographs show unusual aspects of the season.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0874518709"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780874518702"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QR9_OnM8oS8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QR9_OnM8oS8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QR9_OnM8oS8C&printsec=frontcover&dq=Autumn&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QR9_OnM8oS8C&dq=Autumn&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Autumn.html?hl=&id=QR9_OnM8oS8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QR9_OnM8oS8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Organized by theme rather than by species, the book compares and contrasts similar adaptation mechanisms of different species."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cpJzFk2PpUwC",
+   "etag": "tEcc3S8MnAo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cpJzFk2PpUwC",
+   "volumeInfo": {
+    "title": "Autumn Leaves",
+    "authors": [
+     "Gail Saunders Smith"
+    ],
+    "publisher": "Capstone",
+    "publishedDate": "1999-09-01",
+    "description": "Simple text and photographs present the different types and colors of leaves found in the Northern Hemisphere in autumn.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1560659580"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781560659587"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cpJzFk2PpUwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cpJzFk2PpUwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cpJzFk2PpUwC&printsec=frontcover&dq=Autumn&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cpJzFk2PpUwC&dq=Autumn&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Autumn_Leaves.html?hl=&id=cpJzFk2PpUwC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cpJzFk2PpUwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Simple text and photographs present the different types and colors of leaves found in the Northern Hemisphere in autumn."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xinSAAAAMAAJ",
+   "etag": "LZ7kE5Yi9W0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xinSAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Autumn Leaves",
+    "authors": [
+     "Christie Crust"
+    ],
+    "publishedDate": "1875",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89098019037"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, American"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xinSAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xinSAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xinSAAAAMAAJ&pg=PP1&dq=Autumn&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xinSAAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xinSAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=xinSAAAAMAAJ&rdid=book-xinSAAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com/books/download/Autumn_Leaves.epub?id=xinSAAAAMAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/Autumn_Leaves.pdf?id=xinSAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1GiHiysToyb_-8D-ZsXJyG3mA0jQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xinSAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7eKtXLvUsbQC",
+   "etag": "GZxo/cBok1g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7eKtXLvUsbQC",
+   "volumeInfo": {
+    "title": "Arctic Autumn",
+    "subtitle": "A Journey to Season's Edge",
+    "authors": [
+     "Pete Dunne"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2011",
+    "description": "The New Jersey Audubon Society president and author of Prairie Spring and Bayshore Summer turns his attention to the North American wilderness while sharing observations about threatened species and the ongoing struggle to balance oil demands with ecological needs. 10,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780618822218"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0618822216"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "NATURE"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7eKtXLvUsbQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7eKtXLvUsbQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7eKtXLvUsbQC&printsec=frontcover&dq=Autumn&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7eKtXLvUsbQC&dq=Autumn&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Arctic_Autumn.html?hl=&id=7eKtXLvUsbQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7eKtXLvUsbQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;If entertainment is what you want, &quot;Arctic Autumn&quot; should be your book. But the liveliness of Pete Dunne&#39;s writing carries information and messages that we all need to hear."
+   }
+  }
+ ]
+}

@@ -34,7 +34,7 @@ body {
   background-color: #f7f7f7;
 }
 
-.card {
+.book {
   float: left;
   width: 33.333%;
   padding: .75rem;
@@ -50,18 +50,28 @@ body {
 
 
 
-.card > img {
+.book > img {
   height: 180px;
   margin-bottom: .75rem;
 }
 
-.card-text {
+.book-title {
   font-size: 85%;
-  white-space: nowrap;
+  /*white-space: nowrap;*/
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 200px;
+  /*max-width: 250px;*/
 
+}
+
+.book-desc {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 7; /* number of lines to show */
+  line-height: 20px;        /* fallback */
+  max-height: 140px;       /* fallback */
 }
 
 footer {

@@ -1,0 +1,860 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2463,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JMYulwEACAAJ",
+   "etag": "LhWsHoVLRUg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JMYulwEACAAJ",
+   "volumeInfo": {
+    "title": "The Best of Philip K. Dick",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publishedDate": "2013-02-01",
+    "description": "Philip K. Dick didn t predict the future he summoned the desperate bleakness of our present directly from his fevered paranoia. Dick didn t predict the Internet or iPhones or email or 3D printers, but rather he so thoroughly understood human nature that he could already see, even at the advent of the transistor, the way technology would alienate us from each other and from ourselves. He could see us isolated and drifting in our own private realities even before we had plugged in our ear buds. He could see, even in the earliest days of space exploration, how much of our own existence remained unexplored, and how the great black spaces between people were growing even as our universe was shrinking. Philip K. Dick spent his first three years as a science fiction author writing shorter fiction, and in his lifetime he composed almost 150 short stories, many of which have gone on to be adapted into (slightly watered down) Hollywood blockbusters. Collected here are thirteen of his most Dickian tales, funhouse realities with trap doors and hidden compartments, the literary equivalent of optical illusions, tricks of perspective.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0615561187"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780615561189"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JMYulwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JMYulwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JMYulwEACAAJ&dq=Philip+Dick&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JMYulwEACAAJ&dq=Philip+Dick&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_of_Philip_K_Dick.html?hl=&id=JMYulwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JMYulwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Collected here are thirteen of his most Dickian tales, funhouse realities with trap doors and hidden compartments, the literary equivalent of optical illusions, tricks of perspective. &quot;"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C2176WD_RlcC",
+   "etag": "Iuyh2A1ZVSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C2176WD_RlcC",
+   "volumeInfo": {
+    "title": "The Exegesis of Philip K. Dick",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2011-11-08",
+    "description": "\"A great and calamitous sequence of arguments with the universe: poignant, terrifying, ludicrous, and brilliant. The Exegesis is the sort of book associated with legends and madmen, but Dick wasn’t a legend and he wasn’t mad. He lived among us, and was a genius.\"—Jonathan Lethem Based on thousands of pages of typed and handwritten notes, journal entries, letters, and story sketches, The Exegesis of Philip K. Dick is the magnificent and imaginative final work of an author who dedicated his life to questioning the nature of reality and perception, the malleability of space and time, and the relationship between the human and the divine. Edited and introduced by Pamela Jackson and Jonathan Lethem, this will be the definitive presentation of Dick’s brilliant, and epic, final work. In The Exegesis, Dick documents his eight-year attempt to fathom what he called \"2-3-74,\" a postmodern visionary experience of the entire universe \"transformed into information.\" In entries that sometimes ran to hundreds of pages, Dick tried to write his way into the heart of a cosmic mystery that tested his powers of imagination and invention to the limit, adding to, revising, and discarding theory after theory, mixing in dreams and visionary experiences as they occurred, and pulling it all together in three late novels known as the VALIS trilogy. In this abridgment, Jackson and Lethem serve as guides, taking the reader through the Exegesis and establishing connections with moments in Dick’s life and work. The e-book includes a sample chapter from A Scanner Darkly by Philip K. Dick.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547549279"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "054754927X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1056,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=C2176WD_RlcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=C2176WD_RlcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C2176WD_RlcC&printsec=frontcover&dq=Philip+Dick&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=C2176WD_RlcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-C2176WD_RlcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=C2176WD_RlcC&rdid=book-C2176WD_RlcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Exegesis_of_Philip_K_Dick-sample-epub.acsm?id=C2176WD_RlcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Exegesis_of_Philip_K_Dick-sample-pdf.acsm?id=C2176WD_RlcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C2176WD_RlcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The e-book includes a sample chapter from A Scanner Darkly by Philip K. Dick."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZEyn5Gl_sYUC",
+   "etag": "Y/H1yQU+x9Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZEyn5Gl_sYUC",
+   "volumeInfo": {
+    "title": "Ubik",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2012-04-17",
+    "description": "“From the stuff of space opera, Dick spins a deeply unsettling existential horror story, a nightmare you’ll never be sure you’ve woken up from.”—Lev Grossman, Time Glen Runciter runs a lucrative business—deploying his teams of anti-psychics to corporate clients who want privacy and security from psychic spies. But when he and his top team are ambushed by a rival, he is gravely injured and placed in “half-life,” a dreamlike state of suspended animation. Soon, though, the surviving members of the team begin experiencing some strange phenomena, such as Runciter’s face appearing on coins and the world seeming to move backward in time. As consumables deteriorate and technology gets ever more primitive, the group needs to find out what is causing the shifts and what a mysterious product called Ubik has to do with it all. “More brilliant than similar experiments conducted by Pynchon or DeLillo.”—Roberto Bolaño",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547728247"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0547728247"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 68,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.9.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZEyn5Gl_sYUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZEyn5Gl_sYUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZEyn5Gl_sYUC&printsec=frontcover&dq=Philip+Dick&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZEyn5Gl_sYUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZEyn5Gl_sYUC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 2.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZEyn5Gl_sYUC&rdid=book-ZEyn5Gl_sYUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 2990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Ubik-sample-epub.acsm?id=ZEyn5Gl_sYUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Ubik-sample-pdf.acsm?id=ZEyn5Gl_sYUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZEyn5Gl_sYUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As consumables deteriorate and technology gets ever more primitive, the group needs to find out what is causing the shifts and what a mysterious product called Ubik has to do with it all. “More brilliant than similar experiments conducted ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1V9_sv_BudkC",
+   "etag": "AtvG8/8UNto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1V9_sv_BudkC",
+   "volumeInfo": {
+    "title": "Valis",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2011",
+    "description": "The first book in Philip K. Dick's final trilogy (followed by The Divine Invasion andThe Transmigration of Timothy Archer), VALIS encapsulates many of the themes that Dick was obsessed with over the course of his career. A disorienting and bleakly funny novel,VALIS (which stands for Vast Active Living Intelligence System) is about a schizophrenic man named Horselover Fat (who just might also be known as Philip Dick); the hidden mysteries of Gnostic Christianity; and reality as revealed through a pink laser.VALIS is a theological detective story, in which God is both a missing person and the perpetrator of the ultimate crime. Taking place in the same universe as Dick's soon-to-be-published Exegesis,VALIS is a dense novel, but one that is absolutely essential to understanding the author's off-kilter worldview. Much like Dick himself, the reader is left wondering what is real, what is fiction, and what the price is for divine inspiration.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547572413"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0547572417"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 25,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1V9_sv_BudkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1V9_sv_BudkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1V9_sv_BudkC&printsec=frontcover&dq=Philip+Dick&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1V9_sv_BudkC&dq=Philip+Dick&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Valis.html?hl=&id=1V9_sv_BudkC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1V9_sv_BudkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The first book in Philip K. Dick&#39;s final trilogy (followed by The Divine Invasion andThe Transmigration of Timothy Archer), VALIS encapsulates many of the themes that Dick was obsessed with over the course of his career."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M0yMlsxpZ5IC",
+   "etag": "kX5Pg9mzA5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M0yMlsxpZ5IC",
+   "volumeInfo": {
+    "title": "Clans of the Alphane Moon",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2013-04-16",
+    "description": "On a planet run by escapees from a mental institution, the doctors who arrive to restore order may be the craziest of all. For years, the third moon in the Alphane system was used as a psychiatric hospital. But when war broke out between Earth and the Alphanes, the hospital was left unguarded and the inmates set up their own society, made up of competing factions based around each mental illness. When Earth sends a delegation to take back the colony, they find enclaves of depressives, schizophrenics, paranoiacs, and other mentally ill people coming together to repel what they see as a foreign invasion. Meanwhile, back on Earth, CIA agent Chuck Rittersdorf and his wife Mary are going through a bitter divorce, with Chuck losing everything. But when Chuck is assigned to clandestinely control an android accompanying Mary to the Alphane moon, he sees an opportunity to get his revenge.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547998527"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "054799852X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M0yMlsxpZ5IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M0yMlsxpZ5IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=M0yMlsxpZ5IC&printsec=frontcover&dq=Philip+Dick&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M0yMlsxpZ5IC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M0yMlsxpZ5IC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M0yMlsxpZ5IC&rdid=book-M0yMlsxpZ5IC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Clans_of_the_Alphane_Moon-sample-epub.acsm?id=M0yMlsxpZ5IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Clans_of_the_Alphane_Moon-sample-pdf.acsm?id=M0yMlsxpZ5IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M0yMlsxpZ5IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "On a planet run by escapees from a mental institution, the doctors who arrive to restore order may be the craziest of all."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aVbuMfP_IqcC",
+   "etag": "5GoEK4f3oIo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aVbuMfP_IqcC",
+   "volumeInfo": {
+    "title": "The Philip K. Dick Reader",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Citadel Press",
+    "publishedDate": "1997",
+    "description": "Gathers twenty-four science fiction stories, including \"We Can Remember It for You Wholesale,\" \"Second Variety,\" \"The Golden Man,\" and \"The Last of the Masters\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0806518561"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780806518565"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aVbuMfP_IqcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aVbuMfP_IqcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=aVbuMfP_IqcC&printsec=frontcover&dq=Philip+Dick&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=aVbuMfP_IqcC&dq=Philip+Dick&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Philip_K_Dick_Reader.html?hl=&id=aVbuMfP_IqcC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Philip_K_Dick_Reader-sample-pdf.acsm?id=aVbuMfP_IqcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aVbuMfP_IqcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gathers twenty-four science fiction stories, including &quot;We Can Remember It for You Wholesale,&quot; &quot;Second Variety,&quot; &quot;The Golden Man,&quot; and &quot;The Last of the Masters&quot;"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ceePTLVKchMC",
+   "etag": "sQFyr1mZUOg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ceePTLVKchMC",
+   "volumeInfo": {
+    "title": "We Can Build You",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2012-08-14",
+    "description": "In this lyrical and moving novel, Philip K. Dick tells a story of toxic love and compassionate robots. When Louis Rosen’s electronic organ company builds a pitch-perfect robotic replica of Abraham Lincoln, they are pulled into the orbit of a shady businessman, who is looking to use Lincoln for his own profit. Meanwhile, Rosen seeks Lincoln’s advice as he woos a woman incapable of understanding human emotions—someone who may be even more robotic than Lincoln’s replica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547760391"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0547760396"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ceePTLVKchMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ceePTLVKchMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ceePTLVKchMC&printsec=frontcover&dq=Philip+Dick&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ceePTLVKchMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ceePTLVKchMC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ceePTLVKchMC&rdid=book-ceePTLVKchMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/We_Can_Build_You-sample-epub.acsm?id=ceePTLVKchMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/We_Can_Build_You-sample-pdf.acsm?id=ceePTLVKchMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ceePTLVKchMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this lyrical and moving novel, Philip K. Dick tells a story of toxic love and compassionate robots."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fsaGaFoH8UYC",
+   "etag": "zMj04+QwpwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fsaGaFoH8UYC",
+   "volumeInfo": {
+    "title": "Philip K. Dick",
+    "subtitle": "Exhilaration and Terror of the Postmodern",
+    "authors": [
+     "Christopher Palmer"
+    ],
+    "publisher": "Liverpool University Press",
+    "publishedDate": "2003",
+    "description": "Once solely the possession of fans and buffs, the SF author Philip K Dick is now finding a much wider audience, as the success of the films Blade Runner and Minority Report shows. The kind of world he predicted in his funny and frightening novels and stories is coming closer to most of us: shifting realities, unstable relations, uncertain moralities. Philip K. Dick: Exhilaration and Terror of the Postmodern examines a wide range of Dick's work, including his short stories and posthumously published realist novels. Christopher Palmer analyzes the puzzling and dazzling effects of Dick's fiction, and argues that at its heart is a clash between exhilarating possibilities of transformation, and a frightening lack of ethical certainties. Dick's work is seen as the inscription of his own historical predicament, the clash between humanism and postmodernism being played out in the complex forms of the fiction. The problem is never resolved, but Dick's ways of imagining it become steadily more ingenious and challenging.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0853236186"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780853236184"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fsaGaFoH8UYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fsaGaFoH8UYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fsaGaFoH8UYC&printsec=frontcover&dq=Philip+Dick&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fsaGaFoH8UYC&dq=Philip+Dick&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Philip_K_Dick.html?hl=&id=fsaGaFoH8UYC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fsaGaFoH8UYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Philip K. Dick: Exhilaration and Terror of the Postmodern examines a wide range of Dick&#39;s work, including his short stories and posthumously published realist novels."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R5lHDAAAQBAJ",
+   "etag": "x0FqFwF7Jcc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R5lHDAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Divine Madness of Philip K. Dick",
+    "authors": [
+     "Kyle Arnold"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2016-05-02",
+    "description": "Widely recognized as one of the most imaginative writers of the 20th century, Philip K. Dick helped to shape science fiction into the popular genre it is today. His stories, renowned for their sophisticated philosophical themes and startling portrayals of simulated realities, inspired numerous television and film adaptations, including the 1982 cult classic Blade Runner. Dick's personal life took on an otherwordly quality when, in 1974, he famously had a series of bizarre visions. According to Dick, a pink light beamed psychic information into his brain, awakening memories of a past life as an ancient Christian revolutionary and granting him contact with time-traveling extraterrestrials. He witnessed scenes from ancient Rome superimposed over his California neighborhood, and warned local police he was a dangerous machine programmed to self-destruct. After the visions faded, Philip K. Dick spent the rest of his life trying to fathom the meaning of what he called his \"divine madness.\" Was it schizophrenia? Or a genuine religious experience? In The Divine Madness of Philip K. Dick, clinical psychologist Kyle Arnold probes the fascinating mystery of Dick's heart and mind, and shows readers how early traumas opened Dick to profound spiritual experiences while also predisposing him toward drug dependency and violence. Disputing the myth that Dick had schizophrenia, Arnold contends that Dick's well-known paranoia was caused by his addiction to speed. Despite Dick's paranoia, his divine madness was not a sign of mental illness, but a powerful spiritual experience conveyed in the images of science fiction.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780190498313"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0190498315"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R5lHDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R5lHDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=R5lHDAAAQBAJ&printsec=frontcover&dq=Philip+Dick&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=R5lHDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-R5lHDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=R5lHDAAAQBAJ&rdid=book-R5lHDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Divine_Madness_of_Philip_K_Dick-sample-epub.acsm?id=R5lHDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Divine_Madness_of_Philip_K_Dick-sample-pdf.acsm?id=R5lHDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R5lHDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In The Divine Madness of Philip K. Dick, clinical psychologist Kyle Arnold probes the fascinating mystery of Dick&#39;s heart and mind, and shows readers how early traumas opened Dick to profound spiritual experiences while also predisposing ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hg9njt3vmgQC",
+   "etag": "NHY4+zOB3rw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hg9njt3vmgQC",
+   "volumeInfo": {
+    "title": "A Scanner Darkly",
+    "authors": [
+     "Philip K. Dick"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2011",
+    "description": "Bob Arctor is a junkie and a drug-dealer, both using and selling the mind-altering Substance D. Fred is a law enforcement agent, tasked with bringing Bob down. It sounds like a standard case. The only problem is that Bob and Fred are the same person. In order to infiltrate the drug ring he hopes to bring down, Fred has had to use Substance D, but Substance D, or \"Slow Death,\" causes the consciousness to split in two, creating distinct personalities that are entirely unaware of the other's existence. Now, Bob must keep from being caught by Fred, while Fred must keep his suspicious superiors at bay. In this semi-autobiographical novel, Dick looks back on his own drug abuse and his own friends who he lost to drugs. By turns thrilling, mind-bending, laught-out-loud funny, and heart-wrenchingly sad, A Scanner Darkly is an award-winning book made into a cult film and may just be Dick's best novel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780547572178"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0547572174"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 289,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hg9njt3vmgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hg9njt3vmgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hg9njt3vmgQC&printsec=frontcover&dq=Philip+Dick&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hg9njt3vmgQC&dq=Philip+Dick&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Scanner_Darkly.html?hl=&id=hg9njt3vmgQC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hg9njt3vmgQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A drug dealer of the future periodically moves away from his spaced-out world to become an informer for narcotics agents until he becomes unable to separate his two personalities."
+   }
+  }
+ ]
+}

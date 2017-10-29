@@ -1,0 +1,951 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1108,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2EMgiu1eSmAC",
+   "etag": "aMP+11uJoKs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2EMgiu1eSmAC",
+   "volumeInfo": {
+    "title": "Omerta",
+    "subtitle": "A Novel",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2000-07-05",
+    "description": "THE FINAL CHAPTER IN MARIO PUZO'S LANDMARK MAFIA TRILOGY Mario Puzo spent the last three years of his life writing Omerta, the concluding installment in his saga about power and morality in America. In The Godfather, he introduced us to the Corleones. In The Last Don, he told the wicked tale of the Clericuzios. In Omerta, Puzo chronicles the affairs of the Apriles, a family on the brink of legitimacy in a world of criminals. Don Raymonde Aprile is an old man wily enough to retire gracefully from organized crime after a lifetime of ruthless conquest. Having kept his three children at a distance, he's ensured that they are now respectable members of the establishment: Valerius is an army colonel who teaches at West Point, Marcantonio is an influential TV network executive, and Nicole is a corporate litigator with a weakness for pro bono cases to fight the death penalty. To protect them from harm, and to maintain his entrée into the legitimate world of international banking, Don Aprile has adopted a \"nephew\" from Sicily, Astorre Viola, whose legal guardian made the unfortunate decision to commit suicide in the trunk of a car. Astorre is an unlikely enforcer—a macaroni importer with a fondness for riding stallions and recording Italian ballads with his band. Though Don Aprile's retirement is seen as a business opportunity by his last Mafia rival, Timmona Portella, it is viewed with suspicion by Kurt Cilke, the FBI's special agent in charge of investigating organized crime. Cilke has achieved remarkable success in breaking down the bonds between families, cultivating high-ranking sources who in return for federal protection have violated omerta—Sicilian for \"code of silence,\" the vow among men of honor that, until recently, kept them from betraying their secrets to the authorities. As Cilke and the FBI mount their campaign to wipe out the Mafia once and for all, Astorre Viola and the Apriles find themselves in the midst of one last war, a conflict in which it is hard to distinguish who, if anyone, is on the right side of the law, and whether mercy or vengeance is the best course of action. Rich with suspense, dark humor, and the larger-than-life characters who have turned Mario Puzo's novels into modern myths, Omerta is a powerful epitaph for the Mafia at the turn of a new century, and a final triumph for a great American storyteller.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375505683"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0375505687"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2EMgiu1eSmAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2EMgiu1eSmAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2EMgiu1eSmAC&printsec=frontcover&dq=Mario+Puzo&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2EMgiu1eSmAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2EMgiu1eSmAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2EMgiu1eSmAC&rdid=book-2EMgiu1eSmAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Omerta-sample-epub.acsm?id=2EMgiu1eSmAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Omerta-sample-pdf.acsm?id=2EMgiu1eSmAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2EMgiu1eSmAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In The Godfather, he introduced us to the Corleones. In The Last Don, he told the wicked tale of the Clericuzios. In Omerta, Puzo chronicles the affairs of the Apriles, a family on the brink of legitimacy in a world of criminals."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WHalw9A5h_cC",
+   "etag": "srOVFdhQmRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WHalw9A5h_cC",
+   "volumeInfo": {
+    "title": "The Godfather",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2005-10-04",
+    "description": "The Godfather—the classic saga of an American crime family that became a global phenomenon. With its brilliant and brutal portrayal of the Corleone family, The Godfather burned its way into our national consciousness. This unforgettable saga of crime and corruption, passion and loyalty continues to stand the test of time, as the definitive novel of the Mafia underworld. A number-one New York Times bestseller in 1969, Mario Puzo’s epic was turned into the incomparable film of the same name, directed by Francis Ford Coppola, which won the Academy Award for Best Picture. It is the original classic that has been often imitated, but never matched. A tale of family and society, law and order, obedience and rebellion, it reveals the dark passions of human nature played out against a backdrop of the American dream. With an Introduction by Robert Smith Thompson and Anthony Puzo and an Afterword by Peter Bart",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101043110"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101043113"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.8.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WHalw9A5h_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WHalw9A5h_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WHalw9A5h_cC&printsec=frontcover&dq=Mario+Puzo&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WHalw9A5h_cC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WHalw9A5h_cC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WHalw9A5h_cC&rdid=book-WHalw9A5h_cC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Godfather-sample-epub.acsm?id=WHalw9A5h_cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WHalw9A5h_cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This unforgettable saga of crime and corruption, passion and loyalty continues to stand the test of time, as the definitive novel of the Mafia underworld."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XN-DnqbmrkoC",
+   "etag": "OkwcM166kpk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XN-DnqbmrkoC",
+   "volumeInfo": {
+    "title": "Fools Die",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2012-11-30",
+    "description": "FROM THE INTERNATIONAL BESTSELLER OF THE GODFATHER A STORY OF BIG-TIME GAMBLERS IN A FEVERISH WORLD WHERE LAW AND ORGANISED CRIME ARE ONE AND THE SAME... From New York to Las Vegas, Merlyn and his brother Artie obey their own code of honour in the ferment of contemporary America - a world of greed, lust, violence and betrayal, where the power of corruption and the corruption of power are nowhere better explored.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448106868"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448106869"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XN-DnqbmrkoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XN-DnqbmrkoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=XN-DnqbmrkoC&dq=Mario+Puzo&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=XN-DnqbmrkoC&dq=Mario+Puzo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fools_Die.html?hl=&id=XN-DnqbmrkoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XN-DnqbmrkoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "FROM THE INTERNATIONAL BESTSELLER OF THE GODFATHER A STORY OF BIG-TIME GAMBLERS IN A FEVERISH WORLD WHERE LAW AND ORGANISED CRIME ARE ONE AND THE SAME."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IIaHUnvGr2gC",
+   "etag": "U17s4r91lAM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IIaHUnvGr2gC",
+   "volumeInfo": {
+    "title": "The Sicilian",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "2004-09-28",
+    "description": "After Mario Puzo wrote his internationally acclaimed The Godfather, he has often been imitated but never equaled. Puzo's classic novel, The Sicilian, stands as a cornerstone of his work--a lushly romantic, unforgettable tale of bloodshed, justice, and treachery. . . . The year is 1950. Michael Corleone is nearing the end of his exile in Sicily. The Godfather has commanded Michael to bring a young Sicilian bandit named Salvatore Guiliano back with him to America. But Guiliano is a man entwined in a bloody web of violence and vendettas. In Sicily, Guiliano is a modern day Robin Hood who has defied corruption--and defied the Cosa Nostra. Now, in the land of mist-shrouded mountains and ancient ruins, Michael Corleone's fate is entwined with the dangerous legend of Salvatore Guiliano: warrior, lover, and the ultimate Siciliano. From the Paperback edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345480740"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345480743"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IIaHUnvGr2gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IIaHUnvGr2gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IIaHUnvGr2gC&printsec=frontcover&dq=Mario+Puzo&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IIaHUnvGr2gC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IIaHUnvGr2gC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IIaHUnvGr2gC&rdid=book-IIaHUnvGr2gC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sicilian-sample-epub.acsm?id=IIaHUnvGr2gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Sicilian-sample-pdf.acsm?id=IIaHUnvGr2gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IIaHUnvGr2gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Now, in the land of mist-shrouded mountains and ancient ruins, Michael Corleone&#39;s fate is entwined with the dangerous legend of Salvatore Guiliano: warrior, lover, and the ultimate Siciliano. From the Paperback edition."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ac7i3ENQjI8C",
+   "etag": "uRKboxutBqM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ac7i3ENQjI8C",
+   "volumeInfo": {
+    "title": "Six Graves to Munich",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2010-05-04",
+    "description": "An explosive, non-stop thriller following one man’s trail of violence across post-war Europe from the bestselling author of The Godfather. Michael Rogan was an intelligence officer behind enemy lines in World War II. But he made the mistake of falling in love, which gave him something to lose—or to be taken from him. Captured by the Nazis, Michael was treated as an experiment. A piece of meat. A subject upon which his captors committed atrocity upon atrocity. But not before they did the same to his wife—and unborn son. He's lived with the horror of that experience for ten years. Now, Michael Rogan has returned to Europe to find the men who tortured him. And he's going to make sure that they never have to live with the horror as he did...They will die with it. First published under a pseudonym in 1967, Six Graves to Munich was Mario Puzo’s literary predecessor to his legendary novel, The Godfather. In this unsung classic, Puzo’s trademark unflinchingly stark writing style, vivid descriptive skill, and relentless pace are exemplified in the genre of the spy novel. In his hands, the classic tale of revenge becomes a haunting study of humanity at its most visceral, offering a glimpse into a damaged soul whose only remaining purpose for living is to kill.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101404430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101404434"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ac7i3ENQjI8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ac7i3ENQjI8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ac7i3ENQjI8C&printsec=frontcover&dq=Mario+Puzo&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ac7i3ENQjI8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ac7i3ENQjI8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ac7i3ENQjI8C&rdid=book-ac7i3ENQjI8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Six_Graves_to_Munich-sample-epub.acsm?id=ac7i3ENQjI8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ac7i3ENQjI8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In his hands, the classic tale of revenge becomes a haunting study of humanity at its most visceral, offering a glimpse into a damaged soul whose only remaining purpose for living is to kill."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IAzbtl7MrEEC",
+   "etag": "Bj8Mj+j27HA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IAzbtl7MrEEC",
+   "volumeInfo": {
+    "title": "The Dark Arena",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "2009-02-19",
+    "description": "Mario Puzo won international acclaim for The Godfather and his other Mafia novels. But before creating those masterpieces, Puzo wrote his first acclaimed novel The Dark Arena–an astounding story of a war-scarred young American in a battle against corruption and betrayal. . . . After coming home at the end of World War II, Walter Mosca finds himself too restless for his civilian role in America. So he returns to Germany to find the woman he had once loved–and to start some kind of life in a vanquished country. But ahead of Walter stretches a dark landscape of defeat and intrigue, as he succumbs to the corrupting influences of a malevolent time. Now he enters a different kind of war, one in which he must make a fateful decision–between love and ambition, passion and greed, life and death. . . . From the Paperback edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307483553"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "030748355X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IAzbtl7MrEEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IAzbtl7MrEEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IAzbtl7MrEEC&printsec=frontcover&dq=Mario+Puzo&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IAzbtl7MrEEC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IAzbtl7MrEEC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IAzbtl7MrEEC&rdid=book-IAzbtl7MrEEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Dark_Arena-sample-epub.acsm?id=IAzbtl7MrEEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Dark_Arena-sample-pdf.acsm?id=IAzbtl7MrEEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IAzbtl7MrEEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Now he enters a different kind of war, one in which he must make a fateful decision–between love and ambition, passion and greed, life and death. . . . From the Paperback edition."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ze77qLEAaj4C",
+   "etag": "98J5nf75x5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ze77qLEAaj4C",
+   "volumeInfo": {
+    "title": "The Making of the Godfather",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Grand Central Publishing",
+    "publishedDate": "2013-04-23",
+    "description": "In this entertaining and insightful essay, Mario Puzo chronicles his rise from struggling writer to overnight success after the publication of The Godfather. With equal parts cynicism and humor, Puzo recounts the book deal and his experiences in Hollywood while writing the screenplay for the movie. Francis Ford Coppola, Robert Evans, Peter Bart, Marlon Brando, and Al Pacino all make appearances-as does Frank Sinatra, in his famous and disastrous encounter with Puzo. First published in 1972, the essay is now available as an ebook for the first time. A must-have for every Godfather fan! Featuring a foreword by Ed Falco, author of The Family Corleone.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781455548934"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1455548936"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 42,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ze77qLEAaj4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ze77qLEAaj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ze77qLEAaj4C&printsec=frontcover&dq=Mario+Puzo&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ze77qLEAaj4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ze77qLEAaj4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ze77qLEAaj4C&rdid=book-Ze77qLEAaj4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Making_of_the_Godfather-sample-epub.acsm?id=Ze77qLEAaj4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ze77qLEAaj4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "First published in 1972, the essay is now available as an ebook for the first time. A must-have for every Godfather fan! Featuring a foreword by Ed Falco, author of The Family Corleone."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rq2DS-vm-t0C",
+   "etag": "FNBW9sFjqUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rq2DS-vm-t0C",
+   "volumeInfo": {
+    "title": "The Family",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2009-10-13",
+    "description": "“Dazzling, passionate, a masterwork that ranks with Puzo’s best.” —Nicholas Pileggi, author of Wiseguys “One of his most satisfying works….A thoroughly entertaining posthumous present from one of the masters of popular fiction.” —Booklist Mario Puzo’s final masterwork. A sweeping epic saga of corruption, greed, treachery, and sin, The Family is the ultimate crowning achievement of the #1 New York Times bestselling novelist who gave the world The Godfather, arguably the greatest Mafia crime novel ever written. In The Family, Puzo—whom the Washington Post calls, “A serious American talent”—plunges reader into the colorful tumult of the Italian Renaissance, immersing them in the roiling intrigues and deadly affairs of the remarkable family whose name has always been synonymous with power, corruption, poison, and murder: the infamous Borgias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061842958"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061842955"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rq2DS-vm-t0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rq2DS-vm-t0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rq2DS-vm-t0C&printsec=frontcover&dq=Mario+Puzo&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rq2DS-vm-t0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-rq2DS-vm-t0C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.74,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 7.74,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rq2DS-vm-t0C&rdid=book-rq2DS-vm-t0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7740000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 7740000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Family-sample-epub.acsm?id=rq2DS-vm-t0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rq2DS-vm-t0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;We are a family,&quot; Alexander told his children. &quot;And the loyalty of the family must come before everything and everyone else."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OR01ZKf2P04C",
+   "etag": "EE5KxzmlPUY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OR01ZKf2P04C",
+   "volumeInfo": {
+    "title": "The Fortunate Pilgrim",
+    "authors": [
+     "Mario Puzo"
+    ],
+    "publisher": "Ballantine Books",
+    "publishedDate": "2004-09-28",
+    "description": "efore The Godfather and The Last Don, there was Puzo's classic story about the loves, crimes and struggles confronted by one family of New York City immigrants living in Hell's Kitchen. Fresh from the farms in Italy, Lucia Santa struggles to hold her family together in a strange land. At turns poignant, comic and violent, and with a new preface by the author, The Fortunate Pilgrim is Italian-American fiction at its very best. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0345480708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345480705"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 18,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OR01ZKf2P04C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OR01ZKf2P04C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OR01ZKf2P04C&printsec=frontcover&dq=Mario+Puzo&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OR01ZKf2P04C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OR01ZKf2P04C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 4.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OR01ZKf2P04C&rdid=book-OR01ZKf2P04C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 4990000.0,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Fortunate_Pilgrim-sample-epub.acsm?id=OR01ZKf2P04C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Fortunate_Pilgrim-sample-pdf.acsm?id=OR01ZKf2P04C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OR01ZKf2P04C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book&#39;s hero, Lucia Santa, is an incredibly captivating character and based on Puzo&#39;s very own mother - he describes, &quot;her wisdom, her ruthlessness, and her unconquerable love for her family and for life itself, qualities not valued in ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oxnEQ29L2LgC",
+   "etag": "7C+ap+ayzhQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oxnEQ29L2LgC",
+   "volumeInfo": {
+    "title": "The Godfather Returns",
+    "authors": [
+     "Mark Winegardner"
+    ],
+    "publisher": "Random House Digital, Inc.",
+    "publishedDate": "2005",
+    "description": "A sanctioned sequel to Mario Puzo's blockbuster novel, The Godfather, continues the saga of the Corleone family, beginning in 1955 and recounting the events that occurred between the end of the original novel and the episodes chronicled in Coppola's movie sequels. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345478986"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0345478983"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 538,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oxnEQ29L2LgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oxnEQ29L2LgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oxnEQ29L2LgC&printsec=frontcover&dq=Mario+Puzo&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oxnEQ29L2LgC&dq=Mario+Puzo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Godfather_Returns.html?hl=&id=oxnEQ29L2LgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oxnEQ29L2LgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A sanctioned sequel to Mario Puzo&#39;s blockbuster novel, The Godfather, continues the saga of the Corleone family, beginning in 1955 and recounting the events that occurred between the end of the original novel and the episodes chronicled in ..."
+   }
+  }
+ ]
+}

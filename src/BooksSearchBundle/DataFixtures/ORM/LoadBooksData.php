@@ -7,7 +7,8 @@ use BooksSearchBundle\Entity\Book;
 use Doctrine\Bundle\FixturesBundle\Fixture;
 use Doctrine\Common\Persistence\ObjectManager;
 use BooksSearchBundle\Repository\CategoryRepository;
-
+use Symfony\Component\Finder\Finder;
+use Symfony\Component\Console\Output\ConsoleOutput;
 
 class LoadBooksData extends Fixture
 {
@@ -15,12 +16,24 @@ class LoadBooksData extends Fixture
     
     public function load(ObjectManager $manager)
     {        
+        $output = new ConsoleOutput();
+
         $buzz = $this->container->get('buzz');
+        $fixturesPath = realpath(dirname(__FILE__) . "/../fixtures");
+        $queries = array('Stephen+King', 'Rinpochete', "Jazz", "PHP", "Symfony", "Autumn", "Test+work", "Philip+Dick", "Mario+Puzo");
         
-        $queries = array('Stephen+King', 'Rinpochete', "Jazz", "PHP");
-        foreach ($queries as $query) {
-            $response = $buzz->get('https://www.googleapis.com/books/v1/volumes?q=' . $query);
-            $books_fixtures = json_decode($response->getContent());
+        // Load fixtures data from google books
+//        foreach ($queries as $query) {
+//            $response = $buzz->get('https://www.googleapis.com/books/v1/volumes?q=' . $query);
+//            file_put_contents($fixturesPath . "/" . $query . ".json", $response->getContent());
+//        }
+//        die;
+        
+        $finder = new Finder();
+        $finder->files()->in($fixturesPath);
+        foreach ($finder as $file) {
+            $output->writeln("<info>Loading " . $file->getBaseName() . "</info>");
+            $books_fixtures = json_decode($file->getContents());
             
             foreach ($books_fixtures->items as $fixture) {
                 $this->addFixture($fixture, $manager);
@@ -33,6 +46,8 @@ class LoadBooksData extends Fixture
     private function addFixture($fixture, &$manager)
     {
         $book = new Book();
+        $existed_gid = $manager->getRepository('BooksSearchBundle:Book')->findOneBy(array('gid' => $fixture->id));
+        if ($existed_gid) return;
         $book->setGid($fixture->id);
         $book->setEtag($fixture->etag);
         $book->setSelfLink($fixture->selfLink);
@@ -44,7 +59,7 @@ class LoadBooksData extends Fixture
         $volumeInfo = new \BooksSearchBundle\Entity\VolumeInfo();
         $volumeInfo
                 ->setTitle($fixture->volumeInfo->title)
-                ->setPublishedDate($fixture->volumeInfo->publishedDate)
+                ->setPublishedDate($fixture->volumeInfo->publishedDate ?? null)
                 ->setDescription($fixture->volumeInfo->description ?? "")
                 ->setPageCount($fixture->volumeInfo->pageCount ?? 0)
                 ->setLanguage($fixture->volumeInfo->language)
@@ -53,6 +68,7 @@ class LoadBooksData extends Fixture
         
         if (isset($fixture->volumeInfo->categories)) {
             foreach ($fixture->volumeInfo->categories as $fcategory) {
+                $fcategory = strtolower($fcategory);
                 $existed_category = $manager->getRepository('BooksSearchBundle:Category')->findOneBy(array('name' => $fcategory));
                 if ($existed_category && $existed_category->getName() == $fcategory) {
                     $volumeInfo->addCategory($existed_category);
@@ -67,6 +83,7 @@ class LoadBooksData extends Fixture
                              
         if (isset($fixture->volumeInfo->authors)) {
             foreach ($fixture->volumeInfo->authors as $fauthor) {
+                $fauthor = strtolower(utf8_decode($fauthor));
                 $existed_author = $manager->getRepository('BooksSearchBundle:Author')->findOneBy(array('name' => $fauthor));
                 if ($existed_author && $existed_author->getName() == $fauthor) {
                     $volumeInfo->addAuthor($existed_author);
@@ -80,7 +97,7 @@ class LoadBooksData extends Fixture
         }
         
         if (isset($fixture->volumeInfo->publisher)) {
-            $fpublisher = $fixture->volumeInfo->publisher;
+            $fpublisher = strtolower($fixture->volumeInfo->publisher);
             $existed_publisher = $manager->getRepository('BooksSearchBundle:Publisher')->findOneBy(array('name' => $fpublisher));
             if ($existed_publisher && $existed_publisher->getName() == $fpublisher) {
                 $volumeInfo->setPublisher($existed_publisher);
