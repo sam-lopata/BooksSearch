@@ -16,3 +16,6 @@ detail:
     path:     /book/{id}
     defaults: 
         _controller: BooksSearchBundle:Default:book
+    requirements:
+        id: '\d+'
+        methods: '[GET]'

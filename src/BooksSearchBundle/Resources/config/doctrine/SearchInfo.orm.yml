@@ -14,5 +14,5 @@ BooksSearchBundle\Entity\SearchInfo:
     oneToOne:
         book:
             targetEntity: Book
-            mappedBy: SearchInfo
+            mappedBy: searchInfo
     lifecycleCallbacks: {  }

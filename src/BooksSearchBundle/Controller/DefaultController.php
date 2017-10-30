@@ -6,7 +6,12 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use BooksSearchBundle\Form\BookSearch;
 use BooksSearchBundle\Entity\Book;
+use Symfony\Component\HttpFoundation\JsonResponse;
 
+use Symfony\Component\Serializer\Encoder\XmlEncoder;
+use Symfony\Component\Serializer\Encoder\JsonEncoder;
+use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
+use Symfony\Component\Serializer\Serializer;
 
 class DefaultController extends Controller
 {
@@ -21,7 +26,7 @@ class DefaultController extends Controller
           ->getRepository(Book::class)
           ->findDefault();
         
-        return $this->returnView($query, $page, $form);
+        return $this->returnListView($query, $page, $form);
     }
     
     public function searchAction($page = 1, Request $request)
@@ -51,13 +56,40 @@ class DefaultController extends Controller
                         ->findByTitleOrAuthor($key, self::NUM_ITEMS);
             }
             
-            return $this->returnView($query, $page, $form, $key);
+            return $this->returnListView($query, $page, $form, $key);
         }
         
         return $this->redirectToRoute('homepage');
     }
+
+    public function bookAction($id)
+    {
+        $book = $this->getDoctrine()
+        ->getRepository(Book::class)
+        ->findOneById($id);
+
+        if (!$book) {
+            throw $this->createNotFoundException('Book not found!');
+        }
+
+        $encoder = new JsonEncoder();
+        $normalizer = new ObjectNormalizer();
+        $normalizer->setCircularReferenceHandler(function ($object) {
+            return $object->getId();
+        });
+        $serializer = new Serializer(array($normalizer), array($encoder));
+
+        
+        $book = $serializer->serialize($book, 'json');
+
+        return new JsonResponse(array('book' => json_encode($book)), 200);
+
+        // return $this->render('BooksSearchBundle:Default:book.html.twig', array(
+        //     'book' => $book,
+        // ));
+    }
     
-    private function returnView($query, $page, $form, $key = null)
+    private function returnListView($query, $page, $form, $key = null)
     {
         $paginator  = $this->get('knp_paginator');
         

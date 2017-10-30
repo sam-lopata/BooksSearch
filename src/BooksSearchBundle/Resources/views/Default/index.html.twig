@@ -59,7 +59,9 @@
                         <div class="row">
                             {% for col in row %}
                             <div class="book" id="books[col][id]">
-                                <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
+                                <a href="/book/{{books[col].id}}" data-toggle="modal" data-target="#myModal" data-remote="false">
+                                    <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
+                                </a>
                                 <p class="book-title">{{ books[col].volumeInfo.title }}</p>
                                 <p class="book-author">
                                     {% for author in books[col].volumeInfo.authors %}
@@ -88,11 +90,65 @@
         </div>
     </main>
     {% endblock %}
+
+    {% block modal %}
+    <!-- Default bootstrap modal example -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+          </div>
+          <div class="modal-body">
+            ...
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    {% endblock %}
+
     {% block javascripts %}
         <script src="{{ asset('js/jquery.js') }}"></script>
         <script src="{{ asset('js/bootstrap.js') }}"></script>
         <script src="{{ asset('js/holder.js') }}"></script>
         <script src="{{ asset('js/popper.js') }}"></script>
+        <script lang="Javascript">
+            $("#myModal").on("show.bs.modal", function(e) {
+                var link = $(e.relatedTarget);
+                //$(this).find(".modal-body").load(link.attr("href"));
+                
+                /*
+                var book_data;
+                $.get(link.attr("href"), function (data, book_data) {
+                    book_data = JSON.stringify(data);
+                    
+                });
+                console.log(book_data);
+                */
+                var json = (function () {
+                    var json = null;
+                    $.ajax({
+                        'async': false,
+                        'global': false,
+                        'url': my_url,
+                        'dataType': "json",
+                        'success': function (data) {
+                            json = data;
+                        }
+                    });
+                    return json;
+                })(); 
+                console.log(json);
+                //$(this).find(".modal-body").html("<pre>" + book_data + "</pre>");
+                
+            });
+        </script>
     {% endblock %}
     
 </body>
