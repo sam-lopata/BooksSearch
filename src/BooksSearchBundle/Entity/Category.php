@@ -2,6 +2,8 @@
 
 namespace BooksSearchBundle\Entity;
 
+use Symfony\Component\Serializer\Annotation\Groups;
+
 /**
  * Category
  */
@@ -13,6 +15,7 @@ class Category
     private $id;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $name;

@@ -2,47 +2,57 @@
 
 namespace BooksSearchBundle\Entity;
 
+use Symfony\Component\Serializer\Annotation\Groups;
+
 /**
  * VolumeInfo
  */
 class VolumeInfo
 {
     /**
+     * @Groups({"book_view"})
      * @var integer
      */
     private $id;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $title;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $publishedDate;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $description;
 
     /**
+     * @Groups({"book_view"})
      * @var integer
      */
     private $pageCount;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $language;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $previewLink;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $infoLink;
@@ -53,21 +63,25 @@ class VolumeInfo
     private $book;
 
     /**
+     * @Groups({"book_view"})
      * @var \BooksSearchBundle\Entity\ImageLink
      */
     private $imageLinks;
 
     /**
+     * @Groups({"book_view"})
      * @var \BooksSearchBundle\Entity\Publisher
      */
     private $publisher;
 
     /**
+     * @Groups({"book_view"})
      * @var \Doctrine\Common\Collections\Collection
      */
     private $authors;
 
     /**
+     * @Groups({"book_view"})
      * @var \Doctrine\Common\Collections\Collection
      */
     private $categories;

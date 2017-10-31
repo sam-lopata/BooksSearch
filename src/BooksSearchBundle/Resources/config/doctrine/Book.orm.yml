@@ -24,6 +24,7 @@ BooksSearchBundle\Entity\Book:
             unique: true
     oneToOne:
         volumeInfo:
+            fetch: EAGER
             targetEntity: VolumeInfo
             inversedBy: book
             cascade: ["all", "merge", "persist", "refresh", "remove"]
@@ -32,6 +33,7 @@ BooksSearchBundle\Entity\Book:
               referencedColumnName: id
               onDelete: CASCADE
         searchInfo:
+            fetch: EAGER
             targetEntity: SearchInfo
             inversedBy: book
             cascade: ["all", "merge", "persist", "refresh", "remove"]

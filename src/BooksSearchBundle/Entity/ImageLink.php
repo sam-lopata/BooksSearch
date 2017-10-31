@@ -2,6 +2,8 @@
 
 namespace BooksSearchBundle\Entity;
 
+use Symfony\Component\Serializer\Annotation\Groups;
+
 /**
  * ImageLink
  */
@@ -13,11 +15,13 @@ class ImageLink
     private $id;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $smallThumbnail;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $thumbnail;

@@ -2,27 +2,33 @@
 
 namespace BooksSearchBundle\Entity;
 
+use Symfony\Component\Serializer\Annotation\Groups;
+
 /**
  * Book
  */
 class Book
 {
     /**
+     * @Groups({"book_view"})
      * @var integer
      */
     private $id;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $gid;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $etag;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $selfLink;
@@ -110,6 +116,7 @@ class Book
         return $this->selfLink;
     }
     /**
+     * @Groups({"book_view"})
      * @var \BooksSearchBundle\Entity\VolumeInfo
      */
     private $volumeInfo;
@@ -139,6 +146,7 @@ class Book
         return $this->volumeInfo;
     }
     /**
+     * @Groups({"book_view"})
      * @var \BooksSearchBundle\Entity\SearchInfo
      */
     private $searchInfo;

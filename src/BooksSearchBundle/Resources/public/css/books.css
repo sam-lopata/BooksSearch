@@ -119,3 +119,7 @@ footer p {
 .navbar-search-submit {
     margin-left: 20px;
 }
+
+.fixed-table-body {
+    height: inherit;
+}

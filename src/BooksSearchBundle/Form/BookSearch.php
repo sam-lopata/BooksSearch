@@ -34,7 +34,6 @@ class BookSearch extends AbstractType
                 'multiple' => false,
                 'data' => self::SEARCH_EVERYWHERE
             ))
-//            ->add('search', SubmitType::class)
             ->setAction('/search')
         ;
     }

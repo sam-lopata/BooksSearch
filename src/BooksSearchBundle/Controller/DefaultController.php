@@ -6,12 +6,16 @@ use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 use BooksSearchBundle\Form\BookSearch;
 use BooksSearchBundle\Entity\Book;
-use Symfony\Component\HttpFoundation\JsonResponse;
 
-use Symfony\Component\Serializer\Encoder\XmlEncoder;
+use Symfony\Component\HttpFoundation\Response;
+
 use Symfony\Component\Serializer\Encoder\JsonEncoder;
 use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
 use Symfony\Component\Serializer\Serializer;
+
+use Symfony\Component\Serializer\Mapping\Loader\AnnotationLoader;
+use Symfony\Component\Serializer\Mapping\Factory\ClassMetadataFactory;
+use Doctrine\Common\Annotations\AnnotationReader;
 
 class DefaultController extends Controller
 {
@@ -72,17 +76,38 @@ class DefaultController extends Controller
             throw $this->createNotFoundException('Book not found!');
         }
 
+        
+        $classMetadataFactory = new ClassMetadataFactory(new AnnotationLoader(new AnnotationReader()));
+//        $normalizer = new PropertyNormalizer($classMetadataFactory);
+//        $serializer = new Serializer([$normalizer]);
+//        $book = $serializer->normalize($book, 'json', array('groups' => array('book_view')));
+
         $encoder = new JsonEncoder();
-        $normalizer = new ObjectNormalizer();
+        $normalizer = new ObjectNormalizer($classMetadataFactory);
         $normalizer->setCircularReferenceHandler(function ($object) {
             return $object->getId();
         });
         $serializer = new Serializer(array($normalizer), array($encoder));
+        $book = $serializer->serialize(array($book), 'json', array('groups' => array('book_view')));
 
         
-        $book = $serializer->serialize($book, 'json');
+//        $encoder = new JsonEncoder();
+//        $normalizer = new ObjectNormalizer();
+//        $normalizer->setCircularReferenceHandler(function ($object) {
+//            return $object->getId();
+//        });
+//        $serializer = new Serializer(array($normalizer), array($encoder));
+//        $book = $serializer->serialize($book, 'json', array('groups' => array('book_view')));
+        
+        
+//        dump($book);
+//        die;
 
-        return new JsonResponse(array('book' => json_encode($book)), 200);
+        
+        $response = new Response($book);
+        $response->headers->set('Content-Type', 'application/json');
+
+        return $response;
 
         // return $this->render('BooksSearchBundle:Default:book.html.twig', array(
         //     'book' => $book,

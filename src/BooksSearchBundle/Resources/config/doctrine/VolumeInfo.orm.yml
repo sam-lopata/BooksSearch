@@ -37,6 +37,7 @@ BooksSearchBundle\Entity\VolumeInfo:
             targetEntity: Book
             mappedBy: volumeInfo
         imageLinks:
+            fetch: EAGER
             targetEntity: ImageLink
             inversedBy: volume
             cascade: ["all", "merge", "persist", "refresh", "remove"]
@@ -45,6 +46,7 @@ BooksSearchBundle\Entity\VolumeInfo:
                 referencedColumnName: id          
     manyToOne:
         publisher:
+            fetch: EAGER
             targetEntity: Publisher
             cascade: ["all", "merge", "persist", "refresh", "remove"]
             joinColumn:
@@ -52,6 +54,7 @@ BooksSearchBundle\Entity\VolumeInfo:
                 referencedColumnName: id
     manyToMany:
         authors:
+            fetch: EAGER
             targetEntity: Author
             cascade: ["all", "merge", "persist", "refresh", "remove"]
             joinTable:
@@ -63,6 +66,7 @@ BooksSearchBundle\Entity\VolumeInfo:
                     volume_id:
                         referencedColumnName: id
         categories:
+            fetch: EAGER
             targetEntity: Category
             cascade: ["all", "merge", "persist", "refresh", "remove"]
             joinTable:

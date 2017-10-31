@@ -19,7 +19,7 @@ framework:
     csrf_protection: ~
     validation: { enable_annotations: true }
     serializer: 
-        enabled: true
+        enable_annotations: true
         name_converter: 'serializer.name_converter.camel_case_to_snake_case'
     templating:
         engines: ['twig']
@@ -98,18 +98,17 @@ assetic:
             apply_to: "\\.less$"
         cssrewrite: ~
     assets:
-        holder_js:
-            inputs:
-                - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/js/holder.min.js
-            output: js/holder.js
-        popper_js:
-            inputs:
-                - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/js/popper.min.js
-            output: js/popper.js
         books_css:
             inputs:
                 - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/css/books.css
+            filters:
+                - less
+                - cssrewrite
             output: css/books.css
+        books_js:
+            inputs:
+                - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/js/books.js
+            output: js/books.js
         bootstrap_css:
             inputs:
                 - %kernel.root_dir%/../vendor/twbs/bootstrap/less/bootstrap.less
@@ -134,6 +133,18 @@ assetic:
                 - %kernel.root_dir%/../vendor/twbs/bootstrap/js/affix.js
                 - %kernel.root_dir%/../vendor/braincrafted/bootstrap-bundle/Braincrafted/Bundle/BootstrapBundle/Resources/js/bc-bootstrap-collection.js
             output: js/bootstrap.js
+        bootstrap_table_css:
+            inputs:
+                - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/css/bootstrap-table.min.css
+            filters:
+                - less
+                - cssrewrite
+            output: css/bootstrap-table.css
+        bootstrap_table_js:
+            inputs:
+                - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/js/bootstrap-table.min.js
+                - %kernel.root_dir%/../src/BooksSearchBundle/Resources/public/js/bootstrap-table-en-US.js
+            output: js/bootstrap-table.js
         jquery:
             inputs:
                 - %kernel.root_dir%/../vendor/jquery/jquery/jquery-1.11.1.js

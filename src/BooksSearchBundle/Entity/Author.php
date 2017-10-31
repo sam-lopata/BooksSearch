@@ -2,6 +2,8 @@
 
 namespace BooksSearchBundle\Entity;
 
+use Symfony\Component\Serializer\Annotation\Groups;
+
 /**
  * Author
  */
@@ -13,6 +15,7 @@ class Author
     private $id;
 
     /**
+     * @Groups({"book_view"})
      * @var string
      */
     private $name;
