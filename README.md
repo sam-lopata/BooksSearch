@@ -35,7 +35,8 @@ Simple books listing and search application using Symfony 3, Doctrine ORM 2,  Tw
 - Create Mysql user with right to prod, dev and test DBs
 - Execute 
 	```sh
-	bin/console doctrine:schema:create
+	bin/console doctrine:database:create
+        bin/console doctrine:schema:create
 	bin/console doctrine:fixtures:load
 	bin/console assetic:dump
 	```
