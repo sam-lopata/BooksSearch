@@ -1,12 +1,10 @@
 <?php
-
 // src/BooksSearchBundle/DataFixtures/ORM/Fixtures.php
 namespace BooksSearchBundle\DataFixtures\ORM;
 
 use BooksSearchBundle\Entity\Book;
 use Doctrine\Bundle\FixturesBundle\Fixture;
 use Doctrine\Common\Persistence\ObjectManager;
-use BooksSearchBundle\Repository\CategoryRepository;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Console\Output\ConsoleOutput;
 
@@ -16,13 +14,10 @@ class LoadBooksData extends Fixture
     
     public function load(ObjectManager $manager)
     {        
-        $output = new ConsoleOutput();
-
-        $buzz = $this->container->get('buzz');
         $fixturesPath = realpath(dirname(__FILE__) . "/../fixtures");
-        $queries = array('Stephen+King', 'Rinpochete', "Jazz", "PHP", "Symfony", "Autumn", "Test+work", "Philip+Dick", "Mario+Puzo");
-        
-        // Load fixtures data from google books
+// Load fixtures data from google books
+//        $buzz = $this->container->get('buzz');
+//        $queries = array('Stephen+King', 'Rinpochete', "Jazz", "PHP", "Symfony", "Autumn", "Test+work", "Philip+Dick", "Mario+Puzo");
 //        foreach ($queries as $query) {
 //            $response = $buzz->get('https://www.googleapis.com/books/v1/volumes?q=' . $query);
 //            file_put_contents($fixturesPath . "/" . $query . ".json", $response->getContent());
@@ -41,11 +36,13 @@ class LoadBooksData extends Fixture
         }
     }
     
-    private function addFixture($fixture, &$manager)
+    private function addFixture($fixture, $manager)
     {
         $book = new Book();
         $existed_gid = $manager->getRepository('BooksSearchBundle:Book')->findOneBy(array('gid' => $fixture->id));
-        if ($existed_gid) return;
+        if ($existed_gid) {
+            return;
+        }
         $book->setGid($fixture->id);
         $book->setEtag($fixture->etag);
         $book->setSelfLink($fixture->selfLink);

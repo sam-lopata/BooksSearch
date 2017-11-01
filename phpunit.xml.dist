@@ -14,7 +14,6 @@
 
     <testsuites>
         <testsuite name="BooksSear Test Suite">
-            <!--<file>tests/BooksSearchBundle/Setup.php</file>-->
             <file>tests/BooksSearchBundle/Repository/BookRepositoryTest.php</file>
             <directory>tests/BooksSearchBundle/Controller</directory>
         </testsuite>

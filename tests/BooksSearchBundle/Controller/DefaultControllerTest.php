@@ -3,6 +3,7 @@
 namespace BooksSearchBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+use BooksSearchBundle\Entity\Book;
 
 class DefaultControllerTest extends WebTestCase
 {
@@ -84,7 +85,10 @@ class DefaultControllerTest extends WebTestCase
     public function testBook()
     {
         $client = static::createClient();
-
+        
+        $em = $client->getContainer()->get('doctrine.orm.entity_manager');
+        $db_book = $em->getRepository(Book::class)->find(1);
+        
         $crawler = $client->request('GET', '/book/1');
         $response = $client->getResponse();
         $this->assertEquals(200, $response->getStatusCode(), "Correct redirect to page ok");
@@ -95,18 +99,35 @@ class DefaultControllerTest extends WebTestCase
         $responseData = json_decode($response->getContent(), true);
 
         $book = $responseData[0];
-        // var_dump($responseData);
 
-        $this->assertEquals('LhWsHoVLRUg',$book['etag']);
-        $this->assertEquals('JMYulwEACAAJ',$book['gid']);
+        $this->assertEquals($db_book->getEtag(), $book['etag']);
+        $this->assertEquals($db_book->getGid(), $book['gid']);
+        $this->assertEquals($db_book->getSelfLink(), $book['selfLink']);
+        
         $this->assertArrayHasKey('volumeInfo', $book);
         $this->assertInternalType('array', $book['volumeInfo']);
-        $this->assertEquals('The Best of Philip K. Dick',$book['volumeInfo']['title']);
+        
+        $vi = $db_book->getVolumeInfo();
+        $this->assertEquals($vi->getTitle(), $book['volumeInfo']['title']);
+        $this->assertEquals($vi->getPublishedDate(), $book['volumeInfo']['publishedDate']);
+        $this->assertEquals($vi->getDescription(), $book['volumeInfo']['description']);
+        $this->assertEquals($vi->getPageCount(), $book['volumeInfo']['pageCount']);
+        $this->assertEquals($vi->getLanguage(), $book['volumeInfo']['language']);
+        $this->assertEquals($vi->getPreviewLink(), $book['volumeInfo']['previewLink']);
+        $this->assertEquals($vi->getInfoLink(), $book['volumeInfo']['infoLink']);
+        
         $this->assertArrayHasKey('imageLinks', $book['volumeInfo']);
-        $this->assertInternalType('array', $book['volumeInfo']['imageLinks']);
+        if (is_array($book['volumeInfo']['imageLinks'])) {
+            $db_imageLinks = $vi->getImageLinks();
+            $this->assertEquals($book['volumeInfo']['imageLinks']['smallThumbnail'], $db_imageLinks->getSmallThumbnail());
+            $this->assertEquals($book['volumeInfo']['imageLinks']['thumbnail'], $db_imageLinks->getThumbnail());
+        }
 
         $this->assertArrayHasKey('publisher', $book['volumeInfo']);
-        $this->assertNull($book['volumeInfo']['publisher']);
+        if (is_array($book['volumeInfo']['publisher'])) {
+            $db_publisher = $vi->getPublisher();
+            $this->assertEquals($book['volumeInfo']['publisher']['name'], $db_publisher->getName());
+        }
 
         $this->assertArrayHasKey('authors', $book['volumeInfo']);
         $this->assertInternalType('array', $book['volumeInfo']['authors']);
@@ -117,7 +138,7 @@ class DefaultControllerTest extends WebTestCase
         $this->assertArrayHasKey('searchInfo', $book);
         $this->assertInternalType('array', $book['searchInfo']);
         $this->assertContains(
-            'Collected here are thirteen of his most Dickian tales, funhouse realities with trap doors and hidden compartments',
+            $db_book->getSearchInfo()->getTextSnippet(),
             $book['searchInfo']['textSnippet']);
     }
 }
