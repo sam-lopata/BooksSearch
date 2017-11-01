@@ -13,8 +13,10 @@
     </php>
 
     <testsuites>
-        <testsuite name="Project Test Suite">
-            <directory>tests</directory>
+        <testsuite name="BooksSear Test Suite">
+            <!--<file>tests/BooksSearchBundle/Setup.php</file>-->
+            <file>tests/BooksSearchBundle/Repository/BookRepositoryTest.php</file>
+            <directory>tests/BooksSearchBundle/Controller</directory>
         </testsuite>
     </testsuites>
 

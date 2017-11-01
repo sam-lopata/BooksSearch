@@ -69,19 +69,15 @@ class DefaultController extends Controller
     public function bookAction($id)
     {
         $book = $this->getDoctrine()
-        ->getRepository(Book::class)
-        ->findOneById($id);
+            ->getRepository(Book::class)
+            ->findOneById($id)
+        ;
 
         if (!$book) {
             throw $this->createNotFoundException('Book not found!');
         }
 
-        
         $classMetadataFactory = new ClassMetadataFactory(new AnnotationLoader(new AnnotationReader()));
-//        $normalizer = new PropertyNormalizer($classMetadataFactory);
-//        $serializer = new Serializer([$normalizer]);
-//        $book = $serializer->normalize($book, 'json', array('groups' => array('book_view')));
-
         $encoder = new JsonEncoder();
         $normalizer = new ObjectNormalizer($classMetadataFactory);
         $normalizer->setCircularReferenceHandler(function ($object) {
@@ -89,29 +85,11 @@ class DefaultController extends Controller
         });
         $serializer = new Serializer(array($normalizer), array($encoder));
         $book = $serializer->serialize(array($book), 'json', array('groups' => array('book_view')));
-
-        
-//        $encoder = new JsonEncoder();
-//        $normalizer = new ObjectNormalizer();
-//        $normalizer->setCircularReferenceHandler(function ($object) {
-//            return $object->getId();
-//        });
-//        $serializer = new Serializer(array($normalizer), array($encoder));
-//        $book = $serializer->serialize($book, 'json', array('groups' => array('book_view')));
-        
-        
-//        dump($book);
-//        die;
-
-        
         $response = new Response($book);
         $response->headers->set('Content-Type', 'application/json');
 
         return $response;
 
-        // return $this->render('BooksSearchBundle:Default:book.html.twig', array(
-        //     'book' => $book,
-        // ));
     }
     
     private function returnListView($query, $page, $form, $key = null)

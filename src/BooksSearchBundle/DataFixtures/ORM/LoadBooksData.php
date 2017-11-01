@@ -32,7 +32,6 @@ class LoadBooksData extends Fixture
         $finder = new Finder();
         $finder->files()->in($fixturesPath);
         foreach ($finder as $file) {
-            $output->writeln("<info>Loading " . $file->getBaseName() . "</info>");
             $books_fixtures = json_decode($file->getContents());
             
             foreach ($books_fixtures->items as $fixture) {
@@ -40,7 +39,6 @@ class LoadBooksData extends Fixture
                 $this->totalItems++;
             }
         }
-        echo "Items imported: " . $this->totalItems .PHP_EOL;
     }
     
     private function addFixture($fixture, &$manager)
