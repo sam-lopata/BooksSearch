@@ -36,8 +36,8 @@
                         {{ form_widget(form.where) }}
                         
                     </div>
-                    <button type="submit" class="btn btn-default navbar-search-submit">Search</button>
-                {{ form_end(form) }}
+                    <button type="submit" class="btn btn-default navbar-search-submit" name="search">Search</button>
+                </form>
             </div>
             </div>
         </nav>
@@ -60,7 +60,7 @@
                         <div class="row">
                             {% for col in row %}
                             <div class="book" id="books[col][id]">
-                                <a href="/book/{{books[col].id}}" data-toggle="modal" data-target="#myModal" data-remote="false">
+                                <a href="/book/{{books[col].id}}" data-toggle="modal" data-target="#myModal" data-remote="false" name="book_{{books[col].id}}">
                                     <img src="{{ books[col].volumeInfo.imageLinks.smallThumbnail }}" alt="Card image cap">
                                 </a>
                                 <p class="book-title">{{ books[col].volumeInfo.title }}</p>

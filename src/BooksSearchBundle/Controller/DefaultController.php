@@ -42,6 +42,7 @@ class DefaultController extends Controller
         if ($form->isSubmitted() && $form->isValid()) {
             $key = $form->get('key')->getData();
             $where = $form->get('where')->getData();
+
             switch ($where) {                
                 case BookSearch::SEARCH_TITLE:
                     $query = $this->getDoctrine()

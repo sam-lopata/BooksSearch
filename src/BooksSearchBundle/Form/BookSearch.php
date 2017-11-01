@@ -1,6 +1,5 @@
 <?php
 
-// src/AppBundle/Form/TaskType.php
 namespace BooksSearchBundle\Form;
 
 use Symfony\Component\Form\AbstractType;
@@ -22,7 +21,11 @@ class BookSearch extends AbstractType
         $builder
             ->setMethod('GET')
             ->add('key', SearchType::class, array(
-                'label' => 'Search'))
+                'label' => 'Search',
+                'attr' => array(
+                    'name' => 'search'
+                )
+            ))
             ->add('where', ChoiceType::class, array(
                 'label' => 'Where to search',
                 'choices'  => array(
@@ -32,7 +35,13 @@ class BookSearch extends AbstractType
                 ),
                 'expanded' => true,
                 'multiple' => false,
-                'data' => self::SEARCH_EVERYWHERE
+                'data' => self::SEARCH_EVERYWHERE,
+                'attr' => array(
+                    'name' => 'where'
+                )
+            ))
+            ->add('search', SubmitType::class, array(
+                'attr' => array('name' => 'search'),
             ))
             ->setAction('/search')
         ;

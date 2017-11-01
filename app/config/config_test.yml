@@ -15,6 +15,18 @@ web_profiler:
 swiftmailer:
     disable_delivery: true
 # only for unit testing
+doctrine:
+    dbal:
+        driver: pdo_mysql
+        host: '%database_host%'
+        port: '%database_port%'
+        dbname: '%database_name%_test'
+        user: '%database_user%'
+        password: '%database_password%'
+        charset: utf8
+        default_table_options:
+            charset: utf8
+            collate: utf8_unicode_ci
 #doctrine:
 #    dbal:
 #        default_connection: default
